@@ -1,60 +1,30 @@
-# D-One Asana Backup — INDEX
-*Exported: 2026-07-03*
+# Asana Backup Index
+Backed up: 2026-07-03
 
-This archive contains a complete export of all 9 Asana projects for D-One. Each project is saved as a standalone `.md` file with full task details, subtasks, notes, assignees, due dates and completion status.
+## Summary of all projects
 
----
+| Project | GID | Tasks | File |
+|---|---|---|---|
+| Avenhoorn | 1126427183407411 | 141 | [Avenhoorn.md](Avenhoorn.md) |
+| Ave St Louis | 1203180198382724 | 189 | [Ave-St-Louis.md](Ave-St-Louis.md) |
+| De Wet 224 | 1203899920593781 | 7 | [De-Wet-224.md](De-Wet-224.md) |
+| Project Wiki | 1204796362166462 | 78 | [Project-Wiki.md](Project-Wiki.md) |
+| Project Wiki 2 | 1207805331494989 | 77 | [Project-Wiki-2.md](Project-Wiki-2.md) |
+| Sales Pipeline Test | 1208146893564760 | 4 | [Sales-Pipeline-Test.md](Sales-Pipeline-Test.md) |
+| Workflow Jam | 1208272075584092 | 31 | [Workflow-Jam.md](Workflow-Jam.md) |
+| The Seed | 1208522078637396 | 60 | [The-Seed.md](The-Seed.md) |
+| Project Timeline | 1212579274863330 | 8 | [Project-Timeline.md](Project-Timeline.md) |
 
-## Projects
+**Total tasks across all projects: 595**
 
-| File | Project Name | Tasks | Sections |
-|------|-------------|-------|----------|
-| [Avenhoorn.md](Avenhoorn.md) | Avenhoorn | 140 | General, Project Tasks, Sales, Design, Pre-Req, Cabling, Trim, Install, Program, Hand-over |
-| [Ave-St-Louis.md](Ave-St-Louis.md) | Ave St Louis | 189 | (General), Pre-Req, Sales, Design, Project Management, Installation, Programming, Hand-over, Stock ordering, Admin, Service calls, Accounts, Recon |
-| [De-Wet-224.md](De-Wet-224.md) | De Wet 224 | 7 | (General) |
-| [Project-Wiki.md](Project-Wiki.md) | Project Wiki | 78 | Tasks, Sales, Design, Project Management, Installation, Programming, Hand over, Stock ordering and booking out, Recon procedure, Service calls, Admin, Accounts |
-| [Project-Wiki-2.md](Project-Wiki-2.md) | Project Wiki (2) | 77 | Sales, Design, Project Management, Installation, Programming, Hand over, Stock ordering and booking out, Recon procedure, Service calls, Admin, Accounts |
-| [Sales-Pipeline-Test.md](Sales-Pipeline-Test.md) | Sales Pipeline (Test) | 4 | Task Templates, Active opportunities, Late stage opportunities, Closed won |
-| [Workflow-Jam.md](Workflow-Jam.md) | [Converted] Workflow Jam | 31 | Kickoff, Design, Project Management, Installation, Programming, Hand Over |
-| [The-Seed.md](The-Seed.md) | The Seed | 60 | Tasks, Ideas |
-| [Project-Timeline.md](Project-Timeline.md) | Project timeline | 8 | Untitled section |
+## Notes
 
-**Total: 594 tasks across 9 projects**
-
----
-
-## Key Projects
-
-**Avenhoorn** — Active residential project at 25 Avenhoorn Close, Woodbridge Island, Milnerton. Full project lifecycle tracked from sales through hand-over.
-
-**Ave St Louis** — Active residential project. Client: Gregor Klotz. Contractor: Steven Scott. Electrician: Matthew Bornman. Architects: Roberto/Reza at Forte Architetti. 189 tasks — most task-dense project.
-
-**De Wet 224** — Small project, 7 tasks.
-
-**Project Wiki** — D-One internal operations playbook. Covers the full project lifecycle SOP: sales, design, project management, installation, programming, hand-over, stock ordering, accounts, service calls. This is the canonical process reference.
-
-**Project Wiki (2)** — Duplicate of Project Wiki template (slightly updated version with minor wording changes).
-
-**[Converted] Workflow Jam** — Newer, refined version of the D-One project workflow. Uses WeQuote instead of Jetbuilt. Adds milestone celebrations, CCTV mandatory checklist, and Google Drive integration.
-
-**The Seed** — Personal project. Community group at Groote Schuur school (coffee pod venue). Events, speakers, wellness talks, camp-outs. Darren's community initiative.
-
-**Sales Pipeline (Test)** — Asana default Sales Pipeline template. 4 example tasks.
-
-**Project timeline** — Asana default Project Timeline template. 8 example tasks.
-
----
-
-## How to Use This Archive
-
-Each `.md` file uses:
-- `✅` for completed tasks
-- `🔲` for incomplete tasks
-- `## Section` headers for Asana sections
-- `### Task` headers for top-level tasks
-- `#### Subtask` headers for subtasks (nested recursively)
-
-To search across all projects:
-```bash
-grep -r "search term" /Users/darrenswanepoel/Downloads/asana-backup/
-```
+- All tasks captured include: name, status (completed/incomplete), assignee, due date, and notes/description.
+- Avenhoorn has all tasks including sections: (no section), Sales, Design, Pre-Req, Cabling, Trim, Install, Program, Hand-over.
+- Ave St Louis has all tasks including sections: TO DO, SALES: DARREN, ACCOUNTS: Melissa, DESIGN: BENJI, PROJECT MANAGEMENT: STAFFORD, INSTALLATION: STAFFORD, PROGRAMING: BENJI, HANDOVER: DARREN, FINANCE & HR: AMANDA. Note: the INSTALLATION section contained 33 recurring duplicate instances of "Submit monthly report to site foreman".
+- De Wet 224 shares some tasks with Ave St Louis (multi-project tasks).
+- Project Wiki and Project Wiki 2 are template/process wikis with identical structure — they represent D-One's standard project workflow across all lifecycle phases: Sales, Design, Project Management, Installation, Programming, Hand Over, Stock ordering, Recon, Service calls, Admin, Accounts.
+- Sales Pipeline Test contains Asana example/demo tasks only.
+- Workflow Jam is a workflow template covering the full D-One project lifecycle.
+- The Seed is a non-commercial community project (Groeneweide School parent community) with task types ranging from events, ideas, and administrative tasks.
+- Project Timeline is an Asana default timeline template with example tasks only.

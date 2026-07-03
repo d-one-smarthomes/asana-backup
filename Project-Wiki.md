@@ -1,546 +1,496 @@
 # Project Wiki
-*Exported: 2026-07-03*
+Backed up: 2026-07-03
+Total tasks: 78
+GID: 1204796362166462
 
 ## Tasks
 
-### ✅ Annual Leave request 18/10/23
-**Assignee:** Amanda
-**Due:** 2023-10-18
-**Completed:** 2023-10-18
-
-Learners licence examination date 
-
-18 October 2023
-
----
+### Annual Leave request 18/10/23
+- **Status**: Completed
+- **Assignee**: Assigned
+- **Due**: 2023-10-18
+- **Notes**: Learners licence examination date - 18 October 2023
 
 ## Sales
 
-### 🔲 Briefing meeting / Demo with architect & client
+### Briefing meeting / Demo with architect & client
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: What are there requirements.
 
-What are there requirements.
+### Build Jetbuilt quote
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: Use bundles. And adjust quantities. Make sure the pricing is current.
 
----
+### Floorplan markup and submit to architect for the to include in their electrical layout
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Build Jetbuilt quote
+### Jetbuilt project name eg DES1
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-Use bundles. And adjust quantities. Make sure the pricing is current.
+### Review the quote and scope with the client/architect
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Create the database in all relevant systems
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: Main place of creation STARTING POINT is Asana
 
-### 🔲 Floorplan markup and submit to architect for the to include in their electrical layout
+### Invoice for deposit - full hardware value (+-70%)
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: One-liner deposit invoice in Xero.
 
----
+### Update Proposal label in Jetbuilt to "Approved Proposal"
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Jetbuilt project name eg DES1
+### Once Payment received, Update Jetbuilt to "Contract"
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Move to "Install" on Jetbuilt when ready to order stock
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Review the quote and scope with the client/architect
+### Order stock once project in "Install" phase
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Add what has been ordered in Project description on Jetbuilt
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Create the database in all relevant systems:
+### Add all contacts into Asana and send to accounts to add contacts database
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-Main place of creation STARTING POINT is Asana
+### Save original approved PDF of quote in iCloud folder
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-#### 🔲 Asana
+### Duplicate the iCloud Projects template folder and save with new project name
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-#### 🔲 Jetbuilt
+### Change Orders
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: Create Changeorder in Jetbuilt, save PDF in iCloud folder. Merge once approved. Convention: Number|Change|System|Date (e.g. 1|WAP changed|Network|7Sep2023)
 
-Make Project ID the abbreviation of the project
-
-#### 🔲 Contact
-
-TBC
-
-#### 🔲 Xero
-
-#### 🔲 Harvest
-
-Pull data from Asana
-Including Budget - labour from Jetbuilt
-Pin Project
-
-#### 🔲 iCloud
-
----
-
-### 🔲 Invoice for deposit - full hardware value (+-70%)
-
-One-liner deposit invoice in Xero.
-
----
-
-### 🔲 Update Proposal label in Jetbuilt to "Approved Proposal"
-
----
-
-### 🔲 Once Payment received, Update Jetbuilt to "Contract"
-
----
-
-### 🔲 Move to "Install" on Jetbuilt when ready to order stock
-
----
-
-### 🔲 Order stock once project in "Install" phase
-
----
-
-### 🔲 Add what has been ordered in Project description on Jetbuilt
-
----
-
-### 🔲 Add all contacts into Asana and send to accounts to add contacts database
-
----
-
-### 🔲 Save original approved PDF of quote in iCloud folder
-
----
-
-### 🔲 Duplicate the iCloud Projects template folder and save with new project name
-
----
-
-### 🔲 Change Orders
-
-Create Changeorder in Jetbuilt, save PDF in iCloud folder. Merge once approved.
- 
-When a change order is created the NAME of the Change order Must start with the number of the change order - starting at 1, Followed by the Original SYSTEM, then the brief description of the change then the date of the change order
-
-Generate report with Same Convention (Number,Change,System,Date)
-
-EG
-1|WAP changed|Network|7Sep2023
-
----
-
-### 🔲 Save Jetbuilt quote PDF to iCloud project folder
-
----
+### Save Jetbuilt quote PDF to iCloud project folder
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Design
 
-### 🔲 Conduit & Cable schedule from iCloud template
+### Conduit & Cable schedule from iCloud template
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Lighting load schedule
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Lighting load schedule
+### DB design
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Rack design
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 DB design
+### Keypad layout
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Line drawing
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Rack design
-
----
-
-### 🔲 Keypad layout
-
----
-
-### 🔲 Line drawing
-
----
-
-### 🔲 Hand over to technical
-
----
+### Hand over to technical
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Project Management
 
-### 🔲 Install a site board on site
+### Install a site board on site
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Track time on site in harvest
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: Log project | Task type | Time | Notes
 
-### 🔲 Track time on site in harvest
+### Submit safety file to site
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-Log project
-Task type
-Time
-Notes
+### Visit electricians to check conduits
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Get ticked & signed conduit schedule from electrician
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Submit safety file to site
+### Check all points and cables on site
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Sub-contractors
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Visit electricians to check conduits
-
----
-
-### 🔲 Get ticked & signed conduit schedule from electrician
-
----
-
-### 🔲 Check all points and cables on site
-
----
-
-### 🔲 Sub-contractors
-
-#### 🔲 Discuss project budget (50% installation quoted)
-
-#### 🔲 Load budget into Harvest
-
-#### 🔲 Send PO to sub-contractor
-
-#### 🔲 Pay monthly
-
-#### 🔲 Once confirmed, we raise the batch of invoices into XERO with the relevant invoice number, contract labour as a GL and ensure that the price matches to the invoice.
-
----
-
-### 🔲 Snag all systems
-
----
+### Snag all systems
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Installation
 
-### 🔲 Cable as per conduit schedule
+### Cable as per conduit schedule
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Test cables
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Test cables
+### Invoice progress payment (Half of balance due, +-15%)
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Build rack
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Invoice progress payment (Half of balance due, +-15%)
+### Terminate cables and patch panel
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Order Fibre
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Build rack
+### Install field components
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Label components and cables
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Terminate cables and patch panel
-
----
-
-### 🔲 Order Fibre
-
----
-
-### 🔲 Install field components
-
----
-
-### 🔲 Label components and cables
-
----
-
-### 🔲 Snag
-
-#### 🔲 Draw the setup
-
-#### 🔲 Start at one end
-
-#### 🔲 Bypass each component one at a time
-
-#### 🔲 Identify the problematic component
-
-#### 🔲 Resolve
-
----
+### Snag
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Programming
 
-### 🔲 Update all firmware
+### Update all firmware
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Preconfigure devices off-site
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Preconfigure devices off-site
+### Configure components
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Program systems
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Configure components
+### Integrate systems
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Test systems
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Program systems
+### Polish systems
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: Calibrate audio | Lip sync
 
----
+### Save all config files into the iCloud project folder, and keep current
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Integrate systems
+### Snag
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
-
-### 🔲 Test systems
-
----
-
-### 🔲 Polish systems
-
-Calibrate audio
-Lip sync
-
----
-
-### 🔲 Save all config files into the iCloud project folder, and keep current
-
----
-
-### 🔲 Snag
-
----
-
-### 🔲 Put all Login credentials to Project Brief Tab in Asana (Overview Page)
-
----
+### Put all Login credentials to Project Brief Tab in Asana (Overview Page)
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Hand over
 
-### 🔲 Demonstrate to client
+### Demonstrate to client
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Client user guide
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Client user guide
+### COC
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Project file with credentials
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 COC
+### Final invoice - balance on completion
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
-
-### 🔲 Project file with credentials
-
----
-
-### 🔲 Final invoice - balance on completion
-
----
-
-### 🔲 Offer service level agreement
-
----
+### Offer service level agreement
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Stock ordering and booking out
 
-### 🔲 RMA returns
+### RMA returns
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: Any returns need to be booked in with Mel on a task. The task must be tagged "RMA". Add a photo of the item's serial number.
 
-Any returns need to be booked in with Mel on a task. And any updates added to the task. 
-The task must be tagged "RMA". For reference. 
-Add a photo of the item's serial number.
+### Suppliers
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Ordering
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Suppliers
+### Pick and Pack
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-#### 🔲 Homemation
-
-Bryan is our account manager tel: 083 256 8121
-Contact details
-
-#### 🔲 Planetworld
-
-Ghalib is our contact Sales person. 
-Contact number: 083 455 6766
-
-#### 🔲 Sensor
-
-Pieter is our contact sales person
-Contact number: 072 345 4204
-
-#### 🔲 Scoop
-
-Our contact is Shannon 
-Contact number: 021 555 4740
-
-#### 🔲 Linkqage
-
-Our contact is Donovan or Ruth
-
-#### 🔲 Actsys
-
-Our sales contact is Alistair
-
-#### 🔲 Savant Automation
-
-Our contact is Kevin
-
-#### 🔲 Elvey Security
-
-Our contact is Carl
-
-#### 🔲 Spectrum
-
-Our contact is Nathan
-
-#### 🔲 Space TV
-
-You can speak to anyone in sales
-
-#### 🔲 First Distribution
-
-Contact person is Michelle
-
-#### 🔲 Elan Systems
-
-Contact person is Daniel
-
-#### 🔲 Digicape
-
-Contact person is Fabian
-
-#### 🔲 Top CCTV
-
-Contact person is Marc
-
-#### 🔲 Regal
-
-Contact person Kirsten
-
-#### 🔲 Miro
-
-#### 🔲 Samsung/Takealot/Paarl Audio/Tafelberg
-
----
-
-### 🔲 Ordering
-
-#### 🔲 Process deposit invoice for hardware on XERO
-
-#### 🔲 Purchase orders to suppliers from Jetbuilt
-
-#### 🔲 Inform project manager of discontinued items, replacements, and back orders
-
-#### 🔲 Receive stock onto Jetbuilt/XERO
-
-#### 🔲 Barcode and label all stock received according to project
-
----
-
-### 🔲 Pick and Pack
-
-#### 🔲 Pick stock from Jetbuilt
-
-#### 🔲 Make sure all stock is correctly picked as per Jetbuilt
-
-#### 🔲 Issue manual delivery notes for signature
-
----
-
-### 🔲 Variations
-
-#### 🔲 Create change order on Jetbuilt
-
-#### 🔲 Make sure the change order report is saved on iCloud and renamed
-
-#### 🔲 Merge change order into the project
-
-#### 🔲 Follow ordering process
-
----
+### Variations
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Recon procedure
 
-### 🔲 Recon Procedure
+### Recon Procedure
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-#### 🔲 Upon Darren's instruction, make sure you have all the original quotes and invoices printed in date order from the project.
+### Debtors Procedure
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-#### 🔲 The XERO statement should have Darren's invoices listed on his recon.
-
-#### 🔲 The pack of documents would contain the following:
-
-#### 🔲 The order of paper must be - The original numbers quote backed by tax invoice and any relevant credit to match as per date order of the project.
-
-#### 🔲 Group the invoices based on Main Quote, broken into Equipment, Cabcon, Project, Installation and Programming fees, then follow the Variations and any relevant Variations
-
-#### 🔲 This documentation is to be captured in a reconciliation, towards the end of a project. We list the variances and account for stock or project fees still to be invoiced
-
----
-
-### 🔲 Debtors Procedure
-
-#### 🔲 By the 25th of each month make sure you print out an Age Analysis for Darren to highlight whom to follow up with a payment.
-
-#### 🔲 All these details are in XERO or ASANA under the project information
-
-#### 🔲 Once confirmed, ensure all the sales invoices have been updated to the account holder
-
-#### 🔲 Print and email a detailed statement, with corresponding invoices and credit notes
-
-#### 🔲 Follow up with within 7 days
-
----
-
-### 🔲 Recon process
-
----
+### Recon process
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Service calls
 
-### 🔲 Receive service call from client via WhatsApp, Email, or Phone
+### Receive service call from client via WhatsApp, Email, or Phone
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Follow Up with the client and get a description of the issue
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Follow Up with the client and get a description of the issue
+### Create a task in Asana, TAG Service, Make @accounts a follower
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Relay information to D-One Service Call group in WhatsApp
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Create a task in Asana, TAG Service, Make @accounts a follower
+### Inform client if we will handle their issue remotely or in person
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Set an appointment if a technician is needed in person, confirm client availability
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Relay information to D-One Service Call group in WhatsApp
+### After job is complete, the technician logs the task + time in Asana with subtasks
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
+### Accounts confirms time to be billed
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
-### 🔲 Inform client if we will handle their issue remotely or in person
+### Assign subtask to @accounts to bill accordingly
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
----
-
-### 🔲 Set an appointment if a technician is needed in person, confirm client availability
-
----
-
-### 🔲 After job is complete, the technician logs the task + time in Asana with subtasks
-
----
-
-### 🔲 Accounts confirms time to be billed
-
----
-
-### 🔲 Assign subtask to @accounts to bill accordingly
-
----
-
-### 🔲 Accounts bills the client with details of work done from Asana
-
----
+### Accounts bills the client with details of work done from Asana
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
 
 ## Admin
 
-### 🔲 Leave applications
-
-Assign task to accounts@d-one.co.za with the dates and type of leave in the task. Tag the task "Leave"
-
----
+### Leave applications
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: Assign task to accounts@d-one.co.za with the dates and type of leave in the task. Tag the task "Leave"
 
 ## Accounts
 
-### 🔲 Monthly Snapshot
-
-#### 🔲 Cash in bank
-
-#### 🔲 Outstanding SO
-
-#### 🔲 Outstanding PO
-
-#### 🔲 Runway
-
-#### 🔲 YTD turnover
-
-#### 🔲 YTD profit
-
-#### 🔲 Monthly Opex graph trend month to month.
-
-#### 🔲 Project status bar graph: Value|invoiced|paid
-
----
+### Monthly Snapshot
+- **Status**: Incomplete
+- **Assignee**: Unassigned
+- **Due**: None
+- **Notes**: (none)
