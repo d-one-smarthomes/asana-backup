@@ -9,23 +9,33 @@
 > NOT named General.md so the backup job does not mistake it for a completed
 > backup and skip General forever.
 >
-> STATE AS OF 2026-07-12 (this run): 1400/3680 tasks captured (pages 1-14 of
+> STATE AS OF 2026-07-12 (latest run): 1800/3680 tasks captured (pages 1-18 of
 > ~37, 100 tasks/page). Raw fetched pages (name/completed/assignee/due_on/notes,
 > 100 tasks each, in Asana's default stable task order) are cached in
-> _raw_general/page12.json..page14.json in this repo -- pages 1-11 were NOT
-> re-cached this run (they were only walked with opt_fields=name to reach the
-> resume offset and their content matches what's already written to this file
-> for tasks 1-1100).
+> _raw_general/page15.json..page18.json in this repo -- pages 1-14 were NOT
+> re-cached this run (pages 1-14 were only walked with opt_fields=name to reach
+> the resume offset; their content matches what's already written to this file
+> for tasks 1-1400).
 >
-> TO RESUME: load _raw_general/page14.json and read its top-level "next_offset"
-> field -- that is the Asana pagination cursor to pass as `offset` to the next
-> get_tasks call (project=905674768180011, opt_fields="name,completed,
-> assignee.name,due_on,notes", limit=100). This resumes exactly at task 1401,
-> no need to re-walk pages 1-13. For each new page: save the raw JSON to
-> _raw_general/page15.json (etc, matching the page number), convert to the
-> same markdown format as below and append to this file (NOT General.md),
-> update the two "Tasks captured" counts in the header/section title above,
-> and commit+push after every page or two. IMPORTANT GIT WORKAROUND: this repo
+> IMPORTANT: the Asana pagination offset token expires after ~15 minutes, so a
+> saved next_offset from a previous session (even one recorded in a cached
+> page*.json file) will almost certainly be EXPIRED by the time a new session
+> starts. Do NOT try to resume directly from _raw_general/page18.json's
+> next_offset if it's been more than a few minutes since it was fetched --
+> it will fail. Instead: re-walk pages 1-18 fresh with lightweight
+> opt_fields="name" only (fast, ~18 calls, discard the data) to obtain a
+> valid pagination cursor pointing at task 1801, confirming you've reached the
+> right spot by checking the border_rank/gid in the new offset matches the
+> stale one cached in page18.json (they should be identical JWT payloads other
+> than iat/exp). THEN switch to full opt_fields="name,completed,
+> assignee.name,due_on,notes" for all subsequent pages (19 onward).
+>
+> TO RESUME (once you have a fresh valid offset at task 1801): for each new
+> page: save the raw JSON to _raw_general/page19.json (etc, matching the page
+> number), convert to the same markdown format as below and append to this
+> file (NOT General.md), update the two "Tasks captured" counts in the
+> header/section title above, and commit+push after every page or two.
+> IMPORTANT GIT WORKAROUND: this repo
 > lives on a FUSE-mounted Downloads folder that does not support deleting files
 > -- git's own lock files (.git/HEAD.lock, .git/index.lock) sometimes survive a
 > completed git command and block the next one. Before every `git commit` or
