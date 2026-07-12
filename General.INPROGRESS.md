@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 3200 (3181 completed)
+**Tasks captured in this partial backup:** 3400 (3380 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -48,7 +48,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (3200 of 3680 total, 3181 completed)
+## Tasks captured so far (3400 of 3680 total, 3380 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -14174,4 +14174,935 @@ Please follow up on this money outstanding
 ### ✅ Cancel course with GetSmarter
 - **Assignee:** Amanda
 - **Due:** 2019-09-03
+
+### ✅ 2 shelves ready for us at Maitland
+- **Assignee:** Stafford
+- **Due:** 2019-08-27
+
+### ✅ Tools needed 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-30
+- **Notes:** Please can you source a Toner Tool to trace cables. 50 RJ45 connectors @scoop, 50 RJ45 boots @ scoop.
+
+### ✅ Help Riedwaan get Asana working on his phone. 
+- **Assignee:** Unassigned
+- **Due:** 2019-08-27
+
+### ✅ Find out how we can use credit card details for Fibre payments 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-27
+
+### ✅ Ask Clyde for our racks 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-26
+
+### ✅ Stock Take
+- **Assignee:** Amanda
+- **Due:** 2019-09-02
+
+### ✅ Process updates
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-27
+
+### ✅ Make an e-form for debit orders - discuss on Monday's meeting
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-26
+
+### ✅ Make an e-form for debit orders - discuss on Monday's meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-31
+
+### ✅ Lookout Apartment - call Lara
+- **Assignee:** Unassigned
+- **Due:** 2019-08-26
+- **Notes:** Discuss Lookout Apartments and a possible installation for unit 102 and weak signal strengths in 103. (082) 577-6552 - Lara
+
+### ✅ OverTime
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-23
+- **Notes:** Please advise the status of over time this month. Tomorrow is payday.
+
+### ✅ Update our TV License submission for this month
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-14
+- **Notes:** Osrin's TVs with their TV License number. Paradiso - see if we have a TV License number for them.
+
+### ✅ TsTec
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-22
+
+### ✅ Filing
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-21
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-21
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-28
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-04
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-11
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-18
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-25
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-02
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-09
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-16
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-23
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-30
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-06
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-13
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-20
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-27
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-04
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-11
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-18
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-25
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-01
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-08
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-15
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-22
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-29
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-05
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-12
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-19
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-26
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-04
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-11
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-18
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-25
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-04-01
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-04-08
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-04-15
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-04-22
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-04-29
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-05-06
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-05-13
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-05-20
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-05-27
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-06-03
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-06-10
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-06-17
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-06-24
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ SO/PO Details
+- **Assignee:** Caren Bailey
+- **Due:** 2020-07-01
+- **Notes:** Prep documents on Wednesday for Thursday Catch ups.
+
+### ✅ Report on average pin point payment for the last 6 months
+- **Assignee:** Amanda
+- **Due:** 2019-08-22
+
+### ✅ Backup new project 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-17
+
+### ✅ General Stock Shelves
+- **Assignee:** Stafford
+- **Due:** 2019-08-19
+- **Notes:** Found 2 items Darren was asking about on the general shelf, not counted into last stock take.
+
+### ✅ Check Omaze gmail for Tesla competition
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-07
+
+### ✅ Catch Up Points
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-19
+- **Notes:** Fibre - Summerseat, Macdonald, Penthouse, Musha. Project Queries - Uppink, Paradiso stock levels, Pieper billing, Francolin SLA.
+
+### ✅ Exam on Friday
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-17
+- **Notes:** All grades depending on the individual, starting from grade E. We start at 8am. Robert Sobukwe Road, 2nd Floor Negatu Building Bellville.
+
+### ✅ Delivery Note Template
+- **Assignee:** Amanda
+- **Due:** 2019-08-16
+- **Notes:** Darren asks if we can change the layout of the Delivery Note/Box Label to look more like a delivery note (From Dear).
+
+### ✅ Personal tax
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-16
+
+### ✅ Get itemized billing from Voys for the last 3 months
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-12
+
+### ✅ Get itemized billing from Voys for the last 3 months
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-12
+
+### ✅ Get Smarter 
+- **Assignee:** Amanda
+- **Due:** 2019-08-02
+- **Notes:** Course details confirmation for 9 September.
+
+### ✅ Source Toner and tester 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-09
+
+### ✅ Register c4 forums 
+- **Assignee:** Unassigned
+- **Due:** 2019-08-02
+
+### ✅ Asana Legend Green
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-01
+- **Notes:** Green (Small project/adhoc): Avenhoorn, Marais, Ekbergh
+
+### ✅ Check Cabcon Stock - Pick Issue
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-01
+- **Notes:** Look into Cabcon type purchases and stock ordered but not physically seen. Confirm with Stafford.
+
+### ✅ Account Query
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-31
+- **Notes:** ACB querying the April payment that was reversed. (9 April)
+
+### ✅ Check out YED for diagrams
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-30
+
+### ✅ Alpha Tech Called
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-29
+- **Notes:** Werner called from Alpha Tech, just touching base with you. 021 300 1450
+
+### ✅ Buy Tools
+- **Assignee:** Unassigned
+- **Due:** 2019-07-31
+- **Notes:** Crimper, CAT Tester, Screwdrivers, Blade, Longnose pliers, Cutters
+
+### ✅ Call John C
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-29
+- **Notes:** Please call John C - 082 550 9087. He called from 021 416 0141 (Highbury Media)
+
+### ✅ Send travel plans to Eisgaaq
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-30
+
+### ✅ Fibre  Chat
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-25
+- **Notes:** Chat about the 15% discount offerings to clients for year upfront.
+
+### ✅ Creditors
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-26
+
+### ✅ Setup tech meeting for tomorrow am
+- **Assignee:** Stafford
+- **Due:** 2019-07-22
+- **Notes:** I can do morning
+
+### ✅ Edson tip
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-22
+- **Notes:** Take R50 to Edson (Vida) for looking after ya. Don't let the others see.
+
+### ✅ Get alarm battery from General shelf... if we have one 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-22
+- **Notes:** For Darren. 12V battery (Spectrum). Looks like a mini car battery.
+
+### ✅ Archie's Next Run
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-23
+- **Notes:** Collect TSS training material in Bellville. Collect original invoices from Maitland. Camera return to Sensor.
+
+### ✅ Call 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-18
+- **Notes:** 079 565 1883 Josh - RMS
+
+### ✅ PSIRA
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-31
+- **Notes:** The director of the company must do E to B Psira accredited courses. Cost for whole package is R2420 (Full Time) or R2760 (Self Study)
+
+### ✅ Update calendar
+- **Assignee:** Unassigned
+- **Due:** 2019-07-18
+
+### ✅ Research UniFi cloud controller instead of cloudkeys 
+- **Assignee:** Unassigned
+- **Due:** 2019-07-19
+
+### ✅ Clear Workshops
+- **Assignee:** Stafford
+- **Due:** 2019-07-22
+- **Notes:** Now that the racks are out the workshop, can we please clear out the room? Boxes to keep move to warehouse.
+
+### ✅ Items for sites
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-16
+- **Notes:** Blower machine from the store, pack of batteries, PRO80 from Michael if he brings it, ICIC Waterkant stock
+
+### ✅ Drop off PRT3 at spectrum 
+- **Assignee:** Unassigned
+- **Due:** 2019-07-19
+
+### ✅ Admin filing
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-12
+
+### ✅ Quarterly reviews 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-11
+
+### ✅ Call: Samsung
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-10
+- **Notes:** Nkosinathi called from Samsung - 011 549 4437. He is back in SA now.
+
+### ✅ Stock Return
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-16
+- **Notes:** Items to be returned to suppliers: Radionic brackets x2, Sensor (duplicate order including Osrin camera), Spectrum (Osrin kit)
+
+### ✅ Fines
+- **Assignee:** Stafford
+- **Due:** 2020-06-08
+- **Notes:** You have two fines on the caddy. Has the first been paid? Attached is the new one.
+
+### ✅ Space and Linkqage Invoices
+- **Assignee:** Amanda
+- **Due:** 2019-07-10
+- **Notes:** Please confirm when your Space TV and Linkqage invoices will be paid.
+
+### ✅ Leave Form
+- **Assignee:** Unassigned
+- **Due:** 2019-07-10
+- **Notes:** Please complete your leave form for yesterday - Unpaid leave.
+
+### ✅ Leave Form
+- **Assignee:** Stafford
+- **Due:** 2019-07-16
+- **Notes:** Please complete all leave forms for your studies and then for Monday.
+
+### ✅ Office Gate Lock
+- **Assignee:** Stafford
+- **Due:** 2019-08-12
+- **Notes:** Joe has quoted us R550 to install the lock. We need to provide the lock. Please advise if I may go ahead?
+
+### ✅ Business plan for PSIRA 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-18
+
+### ✅ Priorities
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-07-08
+
+### ✅ Oh, dear
+- **Assignee:** Amanda
+- **Due:** 2019-07-08
+- **Notes:** When I try and print this particular Space TV order for Alpha 1, this is the error message.
+
+### ✅ Stock Backorder
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-05
+- **Notes:** Homemation back orders - see attached.
+
+### ✅ Pay pin point 
+- **Assignee:** Amanda
+- **Due:** 2019-07-05
+- **Notes:** Invoices checked
+
+### ✅ Car Final Brand
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-03
+- **Notes:** See attached screenshots from Dani. May I proceed to send off to Office National for go ahead?
+
+### ✅ SAIDSA and PSIRA registrations
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-08
+- **Notes:** Compile a report of all requirements to register D-One with PSIRA and SAICSA to install CCTV and alarm systems. Apply to both organizations.
+
+### ✅ Hoodies
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-02
+- **Notes:** Please see options for all Creative Brands hoodies on offer.
+
+### ✅ Test the alarm on the garage door (Office)
+- **Assignee:** Stafford
+- **Due:** 2019-07-03
+
+### ✅ Shop for a decent windows laptop for programming
+- **Assignee:** Unassigned
+- **Due:** 2019-06-28
+
+### ✅ Eisgaaq priorities
+- **Assignee:** Unassigned
+- **Due:** 2019-07-08
+- **Notes:** Getting on top
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-27
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-28
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-29
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-29
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-29
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-30
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-04-24
+
+### ✅ Priority list
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-04-25
+
+### ✅ Call - Midnight Spark
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-25
+- **Notes:** Re: Gate matters. Sybil called from Midnight Spark 084 426 4198.
+
+### ✅ Call - Switch Problems
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-24
+- **Notes:** Kristen - 083 6444 736
+
+### ✅ Update calendar
+- **Assignee:** Unassigned
+- **Due:** 2019-06-24
+- **Notes:** It should be live.
+
+### ✅ Get Sceletium Tea (2 boxes) from the Wheelers health store
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-24
+
+### ✅ Arrange for Vaughn to get the leak fixed 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-24
+
+### ✅ Alpha Tech Called
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-21
+- **Notes:** Werner called for you this morning. 021 300 1450
+
+### ✅ Report on which of our exisiting projects can be seamlessly updated to OS3
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ General
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-20
+- **Notes:** UPS - Linkqage (Yates), Car branding push, Boulder trust push, ISP sign form, Markim RMA emails, Eisgaaq account login for hm.
+
+### ✅ Apply for dealer forms from ISER. For Samsung TVs
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-19
+
+### ✅ Elemental Account
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-19
+- **Notes:** Go through detail.
+
+### ✅ Eckbergh
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-14
+- **Notes:** Eckbergh design fee total send off - Constantia oakes... to Neil
+
+### ✅ Setup Chrome with Asana, Hubspot, Google Calendar and Gmail
+- **Assignee:** Unassigned
+- **Due:** 2019-06-11
+
+### ✅ Call - Quarry Complex WiFi issue
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-10
+- **Notes:** Please could you call Jordon at 073 893 0080. RE: Wifi issues at one of the Quarry Complexes.
+
+### ✅ Update quote template pricing for BPT with these prices
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-07
+
+### ✅ Client Form
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-06
+- **Notes:** For Fibre/confirmation. Debit order mandate. 30 days if they don't pay - they are liable.
+
+### ✅ Proof of address from bank
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-21
+
+### ✅ Clean up Asana 
+- **Assignee:** Unassigned
+- **Due:** 2020-03-21
+
+### ✅ Clean up Asana 
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Call Received
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-05
+- **Notes:** Bernhard Gerrits - 076 582 1615. He had a missed call from our number, attended an Automation trade show in JHB.
+
+### ✅ insurance form
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-06-04
+
+### ✅ Study material for OS3
+- **Assignee:** Unassigned
+- **Due:** 2019-07-31
+
+### ✅ Homemation Dig
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-31
+- **Notes:** Look into account
+
+### ✅ Pin Point INV
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-29
+- **Notes:** Process as per Darren's email.
+
+### ✅ A500 popcorn machine
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-29
+- **Notes:** Should I do any processing to your email regarding the A500 popcorn machine?
+
+### ✅ Debit order form 
+- **Assignee:** Amanda
+- **Due:** 2019-05-17
+
+### ✅ Debit order form 
+- **Assignee:** Amanda
+- **Due:** 2019-05-17
+
+### ✅ Email Signature
+- **Assignee:** Amanda
+- **Due:** 2019-05-20
+- **Notes:** Email signature
+
+### ✅ Mk12 mounting bracket @iled
+- **Assignee:** Unassigned
+- **Due:** 2019-05-14
+
+### ✅ Order 1 usg for general stock 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-15
+- **Notes:** SKU: USG
+
+### ✅ Iled if we can use zone 2 on the pre-amp 
+- **Assignee:** Unassigned
+- **Due:** 2019-05-14
+- **Notes:** Michelle
+
+### ✅ Stafford Calendar
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-05-13
+
+### ✅ Setup bank account
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-05-17
+- **Notes:** On main business profile
+
+### ✅ Creditors 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-20
+- **Notes:** Homemation Discrepancies
+
+### ✅ Carpet Quote
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-17
+- **Notes:** Deep Blue Similar Carpet Nylon quote
+
+### ✅ New pack of white board markers 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-15
+
+### ✅ Name Change
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-13
+- **Notes:** Alpha - Cape Cables - changed to Actsys? Foundry - changed the speaker cable to the generic name we agreed on
+
+### ✅ Credit 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-17
+- **Notes:** R1120.38 - Scoop
+
+### ✅ Hotel Room Automation
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-05-06
+- **Notes:** Please could you contact Louise - 082 568 8988. The Bay Hotel. Looking to do full room automation of the hotel rooms.
+
+### ✅ Subcontract Query
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-05-03
+- **Notes:** Greg - owned his own security installation previously, interested to explore Control 4 and asks about subcontracting. 079 668 1083 - Hout Bay
+
+### ✅ Hirst WAP Fault
+- **Assignee:** Unassigned
+- **Due:** 2019-05-06
+- **Notes:** Luke says the WAP we looked at is causing friction with his current WAP at home. Unit is on your desk. Please advise on billing details.
+
+### ✅ D-One Banner Vinyl/ Plark
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-09
+- **Notes:** Vinyl or Banner Options - Office National. Plark to hang up. Logo - Audio by D-One A4 size.
+
+### ✅ Effective App to track mileage
+- **Assignee:** Unassigned
+- **Due:** 2019-05-02
+- **Notes:** Vehicle trip log book tracker application
+
+### ⬜ Afrihost login details
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Afrihost darren@d-one.co.za Darrenis@D1 https://clientzone.afrihost.com/en/
+
+### ✅ Discount GL
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-02
+- **Notes:** Look into GL code to use. There is only discount received and not allowed.
+
+### ✅ Faradite Sensor Billing
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-30
+
+### ✅ Home Renovation| Automation Inquiry
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-04-29
+- **Notes:** Gerard Ralphs 072 148 2036. Saw one of our vehicles, renovating his home in June. Keen to explore Automation.
+
+### ✅ Call Pieter
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-04-25
+- **Notes:** Please call Pieter - re: quote feedback. Cell phone: +27 (0)72 345 4204
+
+### ✅ Deep Blue - Test Garage 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-25
+
+### ✅ Amanda to take over booking stock in and out
+- **Assignee:** Amanda
+- **Due:** 2019-04-30
+- **Notes:** It needs to happen daily
+
+### ✅ Blankets
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-18
+- **Notes:** Blue blankets for office staff
+
+### ✅ Andrews Rd Camera
+- **Assignee:** Stafford
+- **Due:** 2019-04-15
+- **Notes:** Please let me know what day you had in mind for this to sort the Camera for Mr Swanepoel?
+
+### ✅ Follow Up
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-15
+- **Notes:** Yazbek - VO to pay for resend statement. Pieper - call now this am
+
+### ✅ Arrange car branding for Eisgaaq
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-25
+- **Notes:** After the fast.
+
+### ✅ Train Stafford and Eisgaaq email on Call-outs
+- **Assignee:** Amanda
+- **Due:** 2019-04-12
+
+### ✅ Buy 4-pack of whiteboard markers for home office
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-17
+
+### ✅ Create General Supplier soft folder
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-11
+
+### ✅ Increase card limit
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-04-10
+
+### ✅ Stock Count
+- **Assignee:** Caren Bailey
+- **Due:** 2024-02-02
+
+### ✅ Update Calendar - it needs to show your planning. e
+- **Assignee:** Unassigned
+- **Due:** 2019-04-10
+
+### ✅ Homemation Backorders
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-08
+- **Notes:** Feedback from Homemation on Backorders. CPT only expects to have these items by end of week.
+
+### ✅ Analogue Bullet
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-08
+- **Notes:** Andrews Road
+
+### ✅ Debtors follow up
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-08
+
+### ✅ Snapshot detail
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-08
+- **Notes:** Update
+
+### ✅ Order Uniform
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-12
+- **Notes:** Jackets sourcing - Total Sports Fusion | K-way. 3 t shirts (golf) each. Ladies t-shirts from Chris. Beanies and scarves.
+
+### ✅ Get power supply for USG 
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Rob Fraser billing
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-08
+- **Notes:** Rob Fraser
+
+### ✅ Charles Hikvision 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-04-04
+
+### ✅ Add Stafford's new phone to our insurance
+- **Assignee:** Amanda
+- **Due:** 2019-04-04
+
+### ✅ General order
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-02
+- **Notes:** Baluns x10 packs, DC plugs x5
+
+### ✅ Creditors: Check
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-02
+- **Notes:** Check Linkqage
+
+### ✅ Call/Follow Up
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-04-02
+- **Notes:** Matt Pretorius called to follow up on the quote he sent you. No contact information left to be returned.
+
+### ✅ Afrihost
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-04
+- **Notes:** We need to split up the Fibre that we are being charged to each location. Get latest invoices from Darren and ask him to split them.
+
+### ✅ Bravo details
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-02
+- **Notes:** Bravo
+
+### ✅ Get latest pricelists - Spectrum's 2019 is a different supplier (Skynatics)
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-01
+
+### ✅ Template
+- **Assignee:** Unassigned
+- **Due:** 2019-03-29
+- **Notes:** Please use this template for any project quotes. Reference: Adhoc. Date of work, Installation time, Programming time, To be invoiced to client, Variation or adhoc.
+
+### ✅ Update cost prices in /Templates/Quote Template.numbers for suppliers with prices that have changed.
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-29
+
+### ✅ Location - Repeating INV
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-29
+- **Notes:** Please make sure all repeating invoices are linked to a location.
+
+### ✅ Setup Hik connect on Dalven DVR
+- **Assignee:** Unassigned
+- **Due:** 2019-04-08
 
