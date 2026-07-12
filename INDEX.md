@@ -66,7 +66,7 @@ Total projects backed up: 149
 | [Gait-Golding-Kommetjie.md](Gait-Golding-Kommetjie.md) | Gait Golding Kommetjie | 31 | 31 |
 | [Gait-Golding-PV.md](Gait-Golding-PV.md) | Gait-Golding-PV | 486 | 485 |
 | [ge.md](ge.md) | ge | 0 | 0 |
-| [General.INPROGRESS.md](General.INPROGRESS.md) | General (IN PROGRESS - partial backup) | 1400 of 3680 captured | 1383 |
+| [General.md](General.md) | General | 3680 | 3659 |
 | [Gnodde.md](Gnodde.md) | Gnodde | 162 | 111 |
 | [Hely-Hutch.md](Hely-Hutch.md) | Hely Hutch | 261 | 261 |
 | [Hershey.md](Hershey.md) | Hershey | 118 | 118 |
