@@ -7,15 +7,36 @@
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
 > NOT named General.md so the backup job does not mistake it for a completed
-> backup and skip General forever. Raw fetched pages (name/completed/assignee/
-> due_on/notes only, 100 tasks each, in Asana's default reverse-chronological-ish
-> order) are cached in _raw_general/page01.json..page11.json in this repo so a
-> future run does not need to re-fetch them -- it can load those, then continue
-> pagination from task 1101 onward (verify continuity by fetching with opt_fields=name
-> only, walking pages 1-11 quickly to confirm the same task GIDs come back, then
-> resume full-field fetches from page 12), appending new pages to _raw_general/
-> and to this file, until all ~3680 tasks are captured -- at which point rename
-> this file to General.md.
+> backup and skip General forever.
+>
+> STATE AS OF 2026-07-12 (this run): 1400/3680 tasks captured (pages 1-14 of
+> ~37, 100 tasks/page). Raw fetched pages (name/completed/assignee/due_on/notes,
+> 100 tasks each, in Asana's default stable task order) are cached in
+> _raw_general/page12.json..page14.json in this repo -- pages 1-11 were NOT
+> re-cached this run (they were only walked with opt_fields=name to reach the
+> resume offset and their content matches what's already written to this file
+> for tasks 1-1100).
+>
+> TO RESUME: load _raw_general/page14.json and read its top-level "next_offset"
+> field -- that is the Asana pagination cursor to pass as `offset` to the next
+> get_tasks call (project=905674768180011, opt_fields="name,completed,
+> assignee.name,due_on,notes", limit=100). This resumes exactly at task 1401,
+> no need to re-walk pages 1-13. For each new page: save the raw JSON to
+> _raw_general/page15.json (etc, matching the page number), convert to the
+> same markdown format as below and append to this file (NOT General.md),
+> update the two "Tasks captured" counts in the header/section title above,
+> and commit+push after every page or two. IMPORTANT GIT WORKAROUND: this repo
+> lives on a FUSE-mounted Downloads folder that does not support deleting files
+> -- git's own lock files (.git/HEAD.lock, .git/index.lock) sometimes survive a
+> completed git command and block the next one. Before every `git commit` or
+> `git push`, run `for f in .git/index.lock .git/HEAD.lock; do [ -e "$f" ] &&
+> mv "$f" "$f.bak$(date +%s%N)"; done` first (mv works even though rm/rename
+> unlink of the ORIGINAL name is blocked -- git still creates a fresh lock
+> file each time and moving the stale one out of the way is enough). The
+> "warning: unable to unlink tmp_obj..." messages during commit are harmless.
+> Continue until all ~3680 tasks are captured, then rename this file to
+> General.md and remove the _raw_general/ cache directory (or leave it; it's
+> harmless) and update INDEX.md.
 
 ## Tasks captured so far (1400 of 3680 total, 1383 completed)
 
