@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 2000 (1981 completed)
+**Tasks captured in this partial backup:** 2200 (2181 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -48,7 +48,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (2000 of 3680 total, 1981 completed)
+## Tasks captured so far (2200 of 3680 total, 2181 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -9144,4 +9144,836 @@ Please follow up on this money outstanding
 ### ✅ Helmet into car, add branding and name
 - **Assignee:** Darren Swanepoel
 - **Due:** None
+
+### ✅ D-One braai?
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Sort out projects and budgets in Harvest
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-19
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-09-19
+
+### ✅ Return this second one
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-09-15
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-15
+
+### ✅ Maumela fibre
+- **Assignee:** Caren Bailey
+- **Due:** 2022-09-12
+- **Notes:** Reactivate Maumela fibre, let him know if there's a faster option, send amount due for payment.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-12
+
+### ✅ Project budgets
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-09-12
+
+### ✅ Dear Sync
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Tried to sync Dear - 14 invoices failed, please look at them.
+
+### ✅ Find out where we can buy Aquavision TVs. And get dealer pricing for one for a sauna.
+- **Assignee:** Unassigned
+- **Due:** 2022-09-09
+- **Notes:** TV that can be installed in a bathroom or sauna, various brands available.
+
+### ✅ Please order ink for my printer Epson
+- **Assignee:** Unassigned
+- **Due:** 2022-09-08
+- **Notes:** 1x 664 Cyan, 1x 664 Magenta, 2x 664 Black, 1x 664 Yellow.
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Discuss accounts with interest with Mands and suppliers
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-09-06
+
+### ✅ Quote Hayley asap
+- **Assignee:** Caren Bailey
+- **Due:** 2022-09-06
+- **Notes:** Melissa this is urgent, was supposed to be done yesterday.
+
+### ✅ Harvest-AUG
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-09-05
+
+### ✅ Purchase or invest?
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-09-07
+- **Notes:** For Matos, Vrymansfontein, Oakvale, Strydom - confirm if ordering now or investing, Mel has already placed orders.
+
+### ✅ Populate Projects planning calendar with relevant projects (Harrigan already done)
+- **Assignee:** Stafford
+- **Due:** 2022-10-10
+- **Notes:** Vrymansfontein completion 30 Aug 2023, Oakvale completion 30 Aug 2023, Matos completion 30 March 2023, Strydom completion Aug 2023.
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-05
+
+### ✅ Meeting notes
+- **Assignee:** Tristan Capes
+- **Due:** 2022-09-05
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-09-05
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-05
+
+### ✅ Find mouse for Benji
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-01
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-01
+- **Notes:** Update on pearl Valley
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-09-01
+
+### ✅ Cambium router for Benji
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-09-02
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-29
+- **Notes:** What is the plan with the magglocks at battery 6 and 8
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-29
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-08-29
+
+### ✅ Asana prioritizing
+- **Assignee:** Unassigned
+- **Due:** 2022-09-30
+
+### ✅ Compliance FNB
+- **Assignee:** Amanda
+- **Due:** 2022-08-26
+- **Notes:** FNB requested confirmation of business account info to avoid account being frozen.
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Battery 6 and 8
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-25
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-08-25
+
+### ✅ DHL
+- **Assignee:** Caren Bailey
+- **Due:** 2022-08-24
+- **Notes:** Make sure they have received the payment Mands made for the package.
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ General notes
+- **Assignee:** Stafford
+- **Due:** 2022-08-22
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-22
+
+### ✅ Apply for an import code
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-06-01
+- **Notes:** Aramex global shopper import code requirement.
+
+### ✅ Oakleys feedback
+- **Assignee:** Unassigned
+- **Due:** 2022-08-29
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-18
+
+### ✅ Accounts Meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-15
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-08-15
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Follow up on "Upload aged receivables here with notes"
+- **Assignee:** Caren Bailey
+- **Due:** 2022-08-15
+
+### ✅ Delete Tristans old Asana i moved it all to the new profile.
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-08-10
+
+### ✅ When do Swans leave?
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-10
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-08-10
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-08-04
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-08-04
+
+### ✅ open a cash account with Frantosa
+- **Assignee:** Caren Bailey
+- **Due:** 2022-08-02
+
+### ✅ Project management meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-08-12
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Check calendars - Stafford-Tristan duplication
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-07-31
+
+### ✅ Tech meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-08-01
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-08-01
+
+### ✅ Mel's new laptop from Darren
+- **Assignee:** Stafford
+- **Due:** 2022-07-28
+- **Notes:** Will come through there.
+
+### ✅ Add new profile pic in Asana
+- **Assignee:** Tristan Capes
+- **Due:** 2022-07-29
+
+### ✅ Reassign tasks on old email. So we can remove that account from Asana
+- **Assignee:** Tristan Capes
+- **Due:** 2022-07-29
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Order 4 sweaters 2 for Riaan and 2 for Clyde
+- **Assignee:** Caren Bailey
+- **Due:** 2022-08-05
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-07-28
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-07-28
+
+### ✅ Assign email for Tristan
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-07-29
+
+### ✅ Upload pic of next week's completed calendars
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Upload pic of next week's completed calendars
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Upload pic of next week's completed calendars
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Upload pic of next week's completed calendars
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Upload pic of next week's completed calendars
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Upload pic of next week's completed calendars
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Upload pic of next week's completed calendars
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ battery wiring
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Excuse me from tech meeting. Is there anything you need from me?
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-07-21
+
+### ✅ Harvest Support assisting me with the issue i'm experiencing
+- **Assignee:** Unassigned
+- **Due:** 2022-07-22
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-07-18
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-07-18
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Complete current time allocation in current role
+- **Assignee:** Unassigned
+- **Due:** 2022-08-05
+- **Notes:** Go through calendar, harvest and Asana for average hours per week per task.
+
+### ✅ Confirm if Trafalgar management made payment
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-19
+
+### ✅ Check all fibre bills to make sure that there aren't fibre ISP's being paid for accounts that we are not billing for.
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-26
+- **Notes:** Review all new fibre invoices.
+
+### ✅ Check our access please.
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-21
+
+### ✅ Accounts meeting measurables
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-25
+- **Notes:** Report on numbers and plot in a graph from Xero.
+
+### ✅ Accounts meeting measurables
+- **Assignee:** Caren Bailey
+- **Due:** 2022-08-01
+- **Notes:** Report on numbers and plot in a graph from Xero.
+
+### ✅ Accounts meeting measurables
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Report on numbers and plot in a graph in numbers/from Xero.
+
+### ✅ Review projects and tasks.
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Invoice client
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-22
+- **Notes:** Boulder Apartments Body Corporate c/o Trafalgar Property Management, VAT 4360110144.
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Send Integrator spec to Benji
+- **Assignee:** Unassigned
+- **Due:** 2022-07-11
+
+### ✅ meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-07-07
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-07-07
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Ensure VOYS is working - people are struggling to get through to us
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-05
+
+### ✅ Process Elan quote & order
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-05
+
+### ✅ Login details to accounts for Yoco
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-07-04
+
+### ✅ Negotiate with Yoco
+- **Assignee:** Amanda
+- **Due:** 2022-07-08
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-07-04
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-07-04
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Add an Asana profile pic
+- **Assignee:** Unassigned
+- **Due:** 2022-07-04
+
+### ✅ Design KPI reporting scorecard for us to review weekly, monthly
+- **Assignee:** Unassigned
+- **Due:** 2022-07-29
+
+### ✅ Confirm we didn't get invoices for Fleet demo system
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-04
+
+### ✅ Load harvest, Asana, calendar, HubSpot phone apps
+- **Assignee:** Unassigned
+- **Due:** 2022-07-01
+
+### ✅ Setup finger print
+- **Assignee:** Unassigned
+- **Due:** 2022-07-01
+
+### ✅ Setup Finder
+- **Assignee:** Unassigned
+- **Due:** 2022-07-01
+
+### ✅ Setup Apple ID
+- **Assignee:** Unassigned
+- **Due:** 2022-07-01
+
+### ✅ Petrol
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-07-05
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-06-30
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Count=Quote in numbers template
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Tech meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Read Traction. Get book from Darren
+- **Assignee:** Stafford
+- **Due:** 2022-07-29
+
+### ✅ Cable order
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-23
+
+### ✅ Evo training
+- **Assignee:** Caren Bailey
+- **Due:** 2022-07-06
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-06-23
+
+### ✅ Clean up old tasks in Asana, and reorder priorities
+- **Assignee:** Unassigned
+- **Due:** 2022-06-25
+
+### ✅ Scorecard
+- **Assignee:** Stafford
+- **Due:** 2022-07-06
+- **Notes:** Review scorecard weekly, report back monthly, provide feedback on what needs to be added/changed.
+
+### ✅ Update calendars
+- **Assignee:** Stafford
+- **Due:** 2022-06-22
+
+### ✅ Register with Kathea
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-21
+
+### ✅ Send contract to Jonathan for signing
+- **Assignee:** Amanda
+- **Due:** 2022-06-28
+
+### ✅ Drill, Hammer and nails and bulbs for office
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Adjust rates for tech logging harvest for sale task and same site
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Harvest training
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-06-15
+
+### ✅ Harvest caught up
+- **Assignee:** Unassigned
+- **Due:** 2022-06-20
+- **Notes:** Harvest slipping, please catch it up.
+
+### ✅ Harvest
+- **Assignee:** Unassigned
+- **Due:** 2022-06-15
+- **Notes:** Please ensure Harvest is updated, arrange training if needed.
+
+### ✅ Quote arri@lung.co.za 2x Vecta speakers at COST price
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-14
+- **Notes:** 1 pair of white Vecta speakers from Homemation with corner mount brackets, arrange delivery to table view.
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-06-13
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-06-13
+
+### ✅ Tech meetings
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Shop for Macbook air second hand not older than 2019
+- **Assignee:** Unassigned
+- **Due:** 2022-06-15
+
+### ✅ Confirm if Top Gun will still be showing on 1 July, Cape Gate or Tyger Valley After 2:30pm
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-30
+
+### ✅ Change Mel's email name to D-One Accounts
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-17
+- **Notes:** Change display name from D-One Admin to D-One Accounts in Gmail settings.
+
+### ✅ Order another office chair from Makro like this for delivery to 1003 Courson st, Val de Vie
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-10
+
+### ✅ Undo forward Sales emails
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Change SSC- WI0031-01 to unit Each in DEAR
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-10
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-06-09
+
+### ✅ Register for this on zoom
+- **Assignee:** Stafford
+- **Due:** 2022-06-10
+
+### ✅ Change Fibre billing from SLA Network service to Internet
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Clients think they're paying us for an SLA service, actually paying for Data - change reference to Internet.
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-06-09
+
+### ✅ Quote Levi Uppink
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-07
+- **Notes:** Will get details of where to send the quote to.
+
+### ✅ Add a profile pic to Asana
+- **Assignee:** Unassigned
+- **Due:** 2022-07-08
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-06-06
+
+### ✅ Change Colleen appointment day
+- **Assignee:** Amanda
+- **Due:** 2022-06-06
+- **Notes:** Jason here Thursday, can we do Tuesday or Wednesday?
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-06-06
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Register Jon.mcclean@gmail.com for VDV work access under d-one
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-16
+
+### ✅ Meet forMeet for phone handover
+- **Assignee:** Stafford
+- **Due:** 2022-06-06
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-06-02
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Move to planetworld
+- **Assignee:** Caren Bailey
+- **Due:** 2022-05-30
+- **Notes:** Invoice details for Gait-Golding Kommetjie and Fulham - ECW260 AP, gate station kit, RFID card reader.
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-05-30
+
+### ✅ Plan
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-05-30
+
+### ✅ Calendars
+- **Assignee:** Stafford
+- **Due:** 2022-05-27
+
+### ✅ Feedback on catchup
+- **Assignee:** Amanda
+- **Due:** 2022-05-30
+- **Notes:** Did you get value from the catchup? What worked? What would you add? Any other ideas?
+
+### ✅ Feedback
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+- **Notes:** Got value - brought out positivity. Would add going around table to check in on everyone, and individual calls for those who might not want to say if ok.
+
+### ✅ Smoking around the car/site - be invisible
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Dear training with Mands while guys drop jackets
+- **Assignee:** Stafford
+- **Due:** 2022-05-26
+
+### ✅ Find out about Ruckus
+- **Assignee:** Unassigned
+- **Due:** 2023-03-31
+
+### ✅ Please arrange delivery of the jackets to Skytech Branding
+- **Assignee:** Amanda
+- **Due:** 2022-06-06
+
+### ✅ Add a profile picture in Asana
+- **Assignee:** Unassigned
+- **Due:** 2022-06-08
+
+### ✅ Do team coffee/chow enroute back from VDV
+- **Assignee:** Stafford
+- **Due:** 2022-05-26
+
+### ✅ invoice 101 Boulder Apartments - Chateau Chez Property Management
+- **Assignee:** Caren Bailey
+- **Due:** 2022-05-27
+- **Notes:** Router Installation, 1 Hour programming - Reyee RG-EW1800GX R975 ex, delivery R300, programming R900.
+
+### ✅ Setup virtual meeting with Technolutions
+- **Assignee:** Unassigned
+- **Due:** 2022-05-25
+
+### ✅ Email Peter fibre options (301 Boulders)
+- **Assignee:** Unassigned
+- **Due:** 2022-05-25
+
+### ✅ Test
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ New fibre clients
+- **Assignee:** Caren Bailey
+- **Due:** 2022-06-09
+
+### ✅ Find sa distributor for Ruckus
+- **Assignee:** Caren Bailey
+- **Due:** 2023-03-31
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-05-23
+
+### ✅ Tracker business mileage
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-06-01
+
+### ✅ Tracker business mileage
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-07-01
+
+### ✅ Tracker business mileage
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-08-01
+
+### ✅ Tracker business mileage
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-09-01
+
+### ✅ Tracker business mileage
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-10-01
+
+### ✅ Tracker business mileage
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-11-01
 
