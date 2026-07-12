@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 1300 (1283 completed)
+**Tasks captured in this partial backup:** 1400 (1383 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -17,7 +17,7 @@
 > and to this file, until all ~3680 tasks are captured -- at which point rename
 > this file to General.md.
 
-## Tasks captured so far (1300 of 3680 total, 1283 completed)
+## Tasks captured so far (1400 of 3680 total, 1383 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -6011,3 +6011,427 @@ Password: Integrator@D1
 ### ✅ Meeting notes
 - **Assignee:** Caleb Thetard
 - **Due:** 2023-09-28
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-28
+
+### ✅ office/meet tristan/prepare&plan
+- **Assignee:** Unassigned
+- **Due:** 2023-09-27
+
+### ✅ travelling/tyre burst
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Caddy had tyre burst on route to site, stopped and changed wheels
+
+### ✅ TECH MEETING
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Heritage day(PH)
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-22
+
+### ✅ Public holiday
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-25
+
+### ✅ Tech meting/pick up stafford/tire burst on R300
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-26
+
+### ✅ Office/pick up mekyle
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-27
+
+### ✅ Ruckus Networks Partner Application
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-07
+- **Notes:** We need to register for this in order to get access to ruckus dealer pricing for network solutions. https://partners.ruckuswireless.com/apply
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-26
+
+### ✅ Assign Mel's current tasks to Caren, so they get done
+- **Assignee:** Amanda
+- **Due:** 2023-09-26
+
+### ✅ Darren's notes for the week ahead
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Get stock and pack van
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-21
+
+### ✅ Tech Meeting/office/pick up stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-21
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-09-21
+- **Notes:** 1hr
+
+### ✅ Specs for Tristan PC
+- **Assignee:** Unassigned
+- **Due:** 2023-09-21
+
+### ✅ UPS wattage template
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-29
+- **Notes:** Save it in the Templates folder: table with max consumption wattages of Araknis 310 router, UniFi UDM Pro router, UniFi 24 port poe switch, Savant S12 host, Savant Pro host, Marantz Cinema50 AVR, Apple TV, JVC Projector NZ30
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-21
+
+### ✅ Office collect stock
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-19
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Monitor and SSD
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-20
+- **Notes:** Do you count the excess monitors and SSD in the general stock? Can't see it anywhere.
+
+### ✅ leave request.
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Pick up stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-18
+
+### ✅ Tech meeting
+- **Assignee:** Stafford
+- **Due:** 2023-09-18
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-18
+
+### ✅ Pick up Stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-15
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-14
+
+### ✅ linkkage - vrymansfontein
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-14
+
+### ✅ Tech meeting
+- **Assignee:** Stafford
+- **Due:** 2023-09-26
+
+### ✅ Linkqage
+- **Assignee:** Unassigned
+- **Due:** 2023-09-14
+- **Notes:** collect cabcon for vrymans rack
+
+### ✅ office
+- **Assignee:** Unassigned
+- **Due:** 2023-09-14
+- **Notes:** meet tristan, collect stock
+
+### ✅ B Farrar & Mitchell TA/Soukop Invoices
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Please capture outstanding Invoice for Sales Overpayment in order for the account to match.
+
+### ✅ office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-14
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-14
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-09-14
+
+### ✅ What do guys need to deliver
+- **Assignee:** Stafford
+- **Due:** 2023-09-18
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-14
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** 2023-09-14
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** 2023-09-21
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** 2023-09-28
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** 2023-10-05
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** 2023-10-12
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** 2023-10-19
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** 2023-10-26
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Tech meeting feedback
+- **Assignee:** Stafford
+- **Due:** None
+- **Notes:** This is a quick check for after the meeting, to check with the team, to see if it was successful.
+
+### ✅ Office/pick up stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-13
+
+### ✅ Office/pack van and load stock
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-11
+
+### ✅ Chances of another windows machine
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-15
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-11
+
+### ✅ Cost Increase Detected
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-26
+- **Notes:** There's an article on Jetbuilt about this activation - exclamation mark feature, never seen before. Please find out how we activate this.
+
+### ✅ Accounts Meeting
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-11
+
+### ✅ Update Project IDs in Jetbuilt
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-13
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-09-11
+- **Notes:** 1Hr
+
+### ✅ Tech Meeting
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-11
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-09-11
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-11
+
+### ✅ Leave
+- **Assignee:** Stafford
+- **Due:** 2023-09-08
+
+### ✅ Update project phases in Harvest
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-13
+
+### ✅ Collect stock and pick up mekyle
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-08
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-04
+
+### ✅ Tech Meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-07
+
+### ✅ Include design And Quotes as a Harvest Tasks
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-09-11
+- **Notes:** Design not showing when tracking time in Harvest. Also look at KPIs for change Orders and Jetbuilt quotes
+
+### ✅ Update bundles for Jetbuilt
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-06
+
+### ✅ Is a Work Breakdown Structure/ Gantt Chart a Good idea on Projects?
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-13
+- **Notes:** Thinking about the value of building Gantt Chart / Work Breakdown Structures at the start of the project phase, keen to hear opinions.
+
+### ✅ Design and Site Breakdown
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-06
+
+### ✅ Get Fingerprints for VDV
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-06
+
+### ✅ Jetbuilt process with Caleb and Mands
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Forward Vodacom to Caren
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-07
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-09-07
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-07
+
+### ✅ Build project Mind Map of upcoming, process and completed projects
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-10
+
+### ✅ Discuss social media videos for D1
+- **Assignee:** Caleb Thetard
+- **Due:** None
+
+### ✅ Make another batch of caps.
+- **Assignee:** Amanda
+- **Due:** 2023-09-15
+
+### ✅ Tech Meeting
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-04
+
+### ✅ Set default currency for new projects in Jetbuilt to Rands. It started making them USD since we went to Enterprise demo
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-08
+
+### ✅ Accounts Meeting
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-04
+
+### ✅ Bank details
+- **Assignee:** Caleb Thetard
+- **Due:** None
+- **Notes:** Send bank details to Amanda
+
+### ✅ Oakvale Visit
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-04
+
+### ✅ Tech meeting
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Update contact to Install Status
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-04
+
+### ✅ Contact List
+- **Assignee:** Caren Bailey
+- **Due:** 2024-02-15
+- **Notes:** Share with the company
+
+### ✅ Vign D'Or Design and quote
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-04
+
+### ✅ Project Brief Template
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-06
+- **Notes:** Create a project brief template to be added to Overview of the projects
+
+### ✅ Add to Project Wiki
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-04
+- **Notes:** Add tasks to project wiki
+
+### ✅ Time test task
+- **Assignee:** Amanda
+- **Due:** 2023-12-05
+
+### ✅ Update project phases in Jetbuilt
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-08
+
+### ✅ Fix repeating tech and accounts meetings
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-09-04
+
+### ✅ Send Fuel Log Template
+- **Assignee:** Amanda
+- **Due:** 2023-09-06
+- **Notes:** If you could send the fuel log template I can get used to clocking the kms.
+
+### ✅ Find Jackets
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-22
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-09-04
+
+### ✅ Tech Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Onboarding
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-01
+
+### ✅ Strategy Day
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-01
+
+### ✅ Strategy Day
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** None
