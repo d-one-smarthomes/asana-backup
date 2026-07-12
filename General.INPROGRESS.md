@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 1600 (1583 completed)
+**Tasks captured in this partial backup:** 1700 (1682 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -38,7 +38,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (1600 of 3680 total, 1583 completed)
+## Tasks captured so far (1700 of 3680 total, 1682 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -7415,5 +7415,455 @@ Routers, switches, WiFi, POE, IP, DHCP, VLAN.
 
 ### ✅ Tech meeting notes
 - **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-06-22
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-06-14
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-06-15
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-06-19
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-06-26
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-07-03
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-07-10
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-07-17
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-07-24
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-07-31
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-08-07
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-08-14
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-08-21
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-08-28
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-09-04
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Check with team that their calendars and harvest are updated daily
+- **Assignee:** Unassigned
+- **Due:** 2023-09-11
+- **Notes:** Nudge them on the WhatsApp group if they need to update it.
+
+### ✅ Request D-One, desk, screen, chair and furniture and any other items to be returned to the warehouse from Benji
+- **Assignee:** Caren Bailey
+- **Due:** 2023-06-15
+
+### ✅ Purchase gas heater and printer for tech office
+- **Assignee:** Caren Bailey
+- **Due:** 2023-06-13
+
+### ✅ Tasks to Tiffany
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Book focusmate session
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Call Heinrich (Insurance) and discuss project annual numbers for contractors all risk cover - he'll elaborate.
+- **Assignee:** Amanda
+- **Due:** 2023-06-13
+
+### ✅ Test Installation Project 1
+- **Assignee:** Amanda
+- **Due:** 2023-07-31
+
+### ✅ Test Installation Project 2
+- **Assignee:** Amanda
+- **Due:** 2023-08-17
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-06-12
+
+### ✅ Stock process with Mel
+- **Assignee:** Unassigned
+- **Due:** 2023-06-23
+- **Notes:** For the stock managment and accounting sections of the Asana project template, got through it with Mel and update the template accordingly. 
+
+I'll do sales, Stafford can help with installation.
+
+On Monday you'll see how it works.
+
+### ✅ Share systems Google calendar with me
+- **Assignee:** Unassigned
+- **Due:** 2023-06-13
+
+### ⬜ Build service department and process
+- **Assignee:** Unassigned
+- **Due:** 2023-06-30
+- **Notes:** Build a process for clients to report service calls and get a quick response and follow up.
+Take the WhatsApp reporting off of Darren and Stafford.
+Find out how other tech service companies do it.
+
+### ✅ Report on Darren's Harvest time to see where time is being spent
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-06-17
+- **Notes:** Do this at the end of the week, so we have more data.
+
+### ✅ Explain how the day-rate and hourly rate work to Benji
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-06-12
+
+### ✅ Tech Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-06-12
+
+### ✅ Test PTZ Dahua on 200m of CAT5e cable
+- **Assignee:** Unassigned
+- **Due:** 2023-06-26
+- **Notes:** We need to confirm that they can operate on a cable that long. Can be setup into a POE switch in the warehouse.
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-06-19
+
+### ✅ Setup WiFi in Imti's office
+- **Assignee:** Tristan Capes
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Add change order 2x B&Odelivery at R700 p unit
+- **Assignee:** Caren Bailey
+- **Due:** 2023-06-09
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes accounts
+- **Assignee:** Stafford
+- **Due:** 2023-06-08
+
+### ✅ Meeting notes tech
+- **Assignee:** Stafford
+- **Due:** 2023-06-08
+
+### ✅ Check out work spaces
+- **Assignee:** Unassigned
+- **Due:** 2023-06-08
+- **Notes:** D-One 2A Jaguar Park, 14th Avenue, Maitland. Meet Mel in Accounts and Caren in admin.
+
+Innercity Ideas Cartel, co-working space
+
+Workshop17, co-working space
+
+Let me know if you'd like to work from there.
+
+### ✅ Arrange to get Macbook from Digicape to Tiffany.
+- **Assignee:** Caren Bailey
+- **Due:** 2023-06-06
+- **Notes:** Tiffany can collect from Digicape if need be. Or from the warehouse if it's already been sent.
+
+### ✅ See if we can setup a business Uber account that Tiffany can use for transport.
+- **Assignee:** Amanda
+- **Due:** 2023-06-05
+
+### ✅ Junior Technician - Call Shaun
+- **Assignee:** Stafford
+- **Due:** 2023-06-05
+
+### ✅ Arrange all service calls this week
+- **Assignee:** Stafford
+- **Due:** 2023-06-05
+
+### ✅ Get update on Polo repair from insurers
+- **Assignee:** Caren Bailey
+- **Due:** 2023-06-02
+
+### ✅ Engineer Recruitment
+- **Assignee:** Unassigned
+- **Due:** 2023-08-04
+- **Notes:** Place an ad on PNet. And look for female engineers. Graduates from Technicon or Universities. Living in Western Cape.
+
+### ✅ Give Benji Projects email details
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Sort service tags in Asana
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-05-29
+
+### ✅ Ask for business card from FNB
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Programming planned between now and 8 June
+- **Assignee:** Stafford
+- **Due:** 2023-05-22
+- **Notes:** Let's put it all down here and order in priority, add due dates, delegate where necessary.
+
+### ✅ Setup document file with requirements such as upload technical file
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-05-25
+
+### ✅ Tech meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Send switch models to Jopie Netclick
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Come up with plan for Benji remuneration for adhoc and Imti's leave
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-05-26
+
+### ✅ Check if we have second hand accusense cameras in stock in general
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Chat to Benji about dates
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Setup admin payment solution to that Darren doesn't have to send OTPs for stationery purchases
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-05-26
+
+### ✅ Clyde for adhoc call-outs
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-05-22
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-05-22
+
+### ✅ Catch up with Veejay, see if he's still happy at 4ward
+- **Assignee:** Stafford
+- **Due:** 2023-05-19
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Confirm Forex
+- **Assignee:** Caren Bailey
+- **Due:** 2023-05-31
+- **Notes:** I got this from FNB, they want me to confirm it. Do we know where or what it's for?
+
+### ✅ Sell monitors @R1000 each
+- **Assignee:** Unassigned
+- **Due:** 2023-06-14
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Add a profile pic in Asana
+- **Assignee:** Unassigned
+- **Due:** 2023-06-09
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-05-15
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Create Ruckus template with these in Jetbuilt
+- **Assignee:** Caren Bailey
+- **Due:** 2023-05-19
+
+### ✅ Ensure pricing is correct for the following bundles on Jetbuilt and make sure new prices are saved to database
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Update Afrihost Credit card
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-05-11
+
+### ✅ Tech meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Connect Tiffany on systems email
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Contact Benji Training and Laptop
+- **Assignee:** Unassigned
+- **Due:** 2023-05-09
+
+### ✅ Ruckus Account Setup
+- **Assignee:** Unassigned
+- **Due:** 2023-12-15
+
+### ✅ Mekyle permanent
+- **Assignee:** Amanda
+- **Due:** 2023-05-08
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-05-08
+
+### ✅ Dont book leave for Tristan for Friday. He worked it in
+- **Assignee:** Amanda
+- **Due:** 2023-05-05
+
+### ✅ Re-activate Jetbuilt account
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Jetbuilt: Do existing quotes get updated pricing if they haven't processed yet? How do we update a quote to current pricing?
+- **Assignee:** Caren Bailey
+- **Due:** 2023-05-05
+
+### ✅ UPS quotes
+- **Assignee:** Caren Bailey
+- **Due:** 2023-05-05
+- **Notes:** 1, 3,6,10 kVA with cloud monitoring and control. 
+So we can reboot remotely.
+
+### ✅ Stop HeyDay rent
+- **Assignee:** Amanda
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-05-02
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-05-02
+
+### ✅ Check Out Software Design Machine
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+- **Notes:** https://www.simplyreliable.com/designmachine/
+
+### ✅ Require Invoice No for savant Pro Host in General
+- **Assignee:** Caren Bailey
+- **Due:** 2023-05-02
+- **Notes:** M/N: SVR-5200S-01
+SIN: H2WHP1M5Q6NV
+UID: 149877851C30000
+
+### ✅ Reset Hikvision Monitor Password
+- **Assignee:** Unassigned
+- **Due:** 2023-05-02
+
+### ✅ Hang whiteboard
+- **Assignee:** Unassigned
+- **Due:** 2023-05-19
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-04-24
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-04-24
+
+### ✅ Contracts for Stafford
+- **Assignee:** Amanda
+- **Due:** 2023-07-28
+
+### ✅ Meeting notes for the week
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-04-24
+- **Notes:** Stuff to be done this week.
+
+### ✅ Update pricing in bundles
+- **Assignee:** Caren Bailey
+- **Due:** 2023-05-12
+- **Notes:** Update Dstv, network, Araknis, dahua, etc etc ask Jetbuilt how to get current pricing into bundles.
+
+### ✅ Get registered as a Hik-Pro so that we can access their portal
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Get all documentation from Benji for claim as per email from insurers.
+- **Assignee:** Caren Bailey
+- **Due:** 2023-04-24
+
+### ✅ Jetbuilt pricing
+- **Assignee:** Caren Bailey
+- **Due:** 2023-04-28
+- **Notes:** Jetbuilt pricing has been dropped.
+
+Please make sure it's updated.
+
+Spectrum, Planetworld, Homemation, Scoop, Top CCTV, Sensor.
+
+### ✅ Create Whitepages for current sites and transfer Files for easy access
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Consider FreeForm on Mac. Just check portal for Savant and new Mac software.
+
+### ✅ Schedule savant training
+- **Assignee:** Unassigned
 - **Due:** None
 
