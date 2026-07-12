@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 1200 (1184 completed)
+**Tasks captured in this partial backup:** 1300 (1283 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -17,7 +17,7 @@
 > and to this file, until all ~3680 tasks are captured -- at which point rename
 > this file to General.md.
 
-## Tasks captured so far (1200 of 3680 total, 1184 completed)
+## Tasks captured so far (1300 of 3680 total, 1283 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -5595,3 +5595,419 @@ Password: Integrator@D1
 ### ✅ Accounts meeting
 - **Assignee:** Darren Swanepoel
 - **Due:** None
+### ✅ Accounts meeting
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-30
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-30
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-10-30
+
+### ✅ Tech Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-10-30
+
+### ✅ tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-10-26
+
+### ✅ Pick up Stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-26
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-26
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-26
+
+### ✅ Tech meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-10-26
+
+### ✅ Office/stock
+- **Assignee:** Unassigned
+- **Due:** 2023-10-24
+- **Notes:** -collect & book out stock at office
+-sort & pack van
+-collect camera at sensor
+-HDMI cable at linkqage
+
+### ✅ Linkqage/Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-24
+
+### ✅ Take Miche to the clinic
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-24
+
+### ✅ Fibre billing etc? Debtors
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Office/pick up Stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-23
+
+### ✅ TECH MEETING
+- **Assignee:** Unassigned
+- **Due:** 2023-10-23
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-23
+
+### ✅ Meeting notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-23
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-13
+
+### ✅ Balance Caddy wheels
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-09
+
+### ✅ Tech Meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-09
+
+### ✅ Banking details change
+- **Assignee:** Amanda
+- **Due:** 2023-10-24
+- **Notes:** Could this please be changed this month before payroll. Requested last month however salary was paid to old account. New details attached.
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ admin
+- **Assignee:** Unassigned
+- **Due:** 2023-10-20
+
+### ✅ learners exam
+- **Assignee:** Unassigned
+- **Due:** 2023-10-18
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-10-16
+- **Notes:** 1hr
+
+### ✅ Linkqage
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-12
+
+### ✅ Tech meeting/Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-12
+
+### ✅ Pick up Mekyle
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-20
+
+### ✅ Move to oakvale then book out to oakvale
+- **Assignee:** Unassigned
+- **Due:** 2023-10-23
+- **Notes:** Item in the pic comes from general, need to move it to Oakvale then book it out, unit handed to pin point on the 20th of October.
+
+### ✅ On site in DVDV
+- **Assignee:** Amanda
+- **Due:** 2023-10-20
+
+### ✅ Uppink To Site
+- **Assignee:** Amanda
+- **Due:** 2023-10-23
+
+### ✅ On site VDVD
+- **Assignee:** Amanda
+- **Due:** 2023-10-20
+
+### ✅ Caren track time
+- **Assignee:** Unassigned
+- **Due:** 2023-10-24
+- **Notes:** Please issue invoice to: RETURNAfrica (Pty) Ltd, Postnet Suite 117, Private Bag X7, Parkview 2122. Vat registration # 4820276600
+
+### ✅ Time tracking
+- **Assignee:** Stafford
+- **Due:** 2023-10-23
+- **Notes:** There are lots of gaps in your time tracking. Please update this ASAP. (weekly hours summary attached)
+
+### ✅ Track Time Asana
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-20
+
+### ✅ (untitled task)
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Time tracking
+- **Assignee:** Unassigned
+- **Due:** 2023-10-23
+- **Notes:** There are a few days this month you have not logged in Asana. Please update ASAP. Easier doing it daily than catching up a week's work. (Mekyle weekly hours summary attached)
+
+### ✅ Time tracking
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-23
+- **Notes:** There are a few days this month you have not logged in Asana. Please update ASAP. (Tristan weekly hours summary attached)
+
+### ✅ Buy concrete bags at bulders warehouse
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-16
+
+### ✅ Collect poles for kiosk at Triwes
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-16
+
+### ✅ Linkqage
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-16
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-16
+
+### ✅ Collect RF cable at office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-17
+
+### ✅ office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-18
+
+### ✅ Regal/Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-19
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-19
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-19
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-10-19
+
+### ✅ Imti: Overtime
+- **Assignee:** Amanda
+- **Due:** 2023-10-20
+
+### ✅ Populate calendar
+- **Assignee:** Unassigned
+- **Due:** 2023-10-17
+
+### ✅ Blue and white T-shirts for Darren and Imti
+- **Assignee:** Amanda
+- **Due:** 2023-11-10
+
+### ✅ Meeting notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-16
+
+### ✅ Goals for the week
+- **Assignee:** Stafford
+- **Due:** 2023-10-16
+- **Notes:** In the tech meeting, let's look at what we want to achieve this week - Projects, Service. Helps with direction so we end the week successful, not just busy.
+
+### ✅ Admin (Asana+harvest)
+- **Assignee:** Unassigned
+- **Due:** 2023-10-12
+- **Notes:** 1hr
+
+### ✅ Admin (harvest/Asana)
+- **Assignee:** Unassigned
+- **Due:** 2023-10-10
+
+### ✅ Catch up harvest
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-16
+
+### ✅ Resolve Sound at VDV Cinema
+- **Assignee:** Unassigned
+- **Due:** 2023-10-12
+
+### ✅ Allocate from general to Ekbergh please on loan
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-12
+
+### ✅ Update projects status in Jetbuilt
+- **Assignee:** Caleb Thetard
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-12
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Loy-Rental property
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-10-12
+
+### ✅ Network Training
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-09
+
+### ✅ Stocktake
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ homemation
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** boook in faulty relay for yazbek
+
+### ✅ Homemation/Linkage
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-06
+
+### ✅ Collect WAP at office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-06
+
+### ✅ Scoop Collection
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-06
+
+### ✅ Office stock collection
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-04
+
+### ✅ Office/Triwes
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-05
+
+### ✅ Tech and Team catchup meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-05
+
+### ✅ Returned M&K In walls and vogels bracket to PlanetWorld
+- **Assignee:** Unassigned
+- **Due:** 2023-10-31
+
+### ✅ Time off
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Chat to IT Xone
+- **Assignee:** Unassigned
+- **Due:** 2023-11-03
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ admin timesheets
+- **Assignee:** Unassigned
+- **Due:** 2023-10-03
+
+### ✅ tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-10-02
+
+### ⬜ Sell LQSE-2DALUNV-D
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+- **Notes:** See if Dean will be interested in buying this unit
+
+### ✅ Collect Stock and pick up Stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-03
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-02
+
+### ✅ Off on leave
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-29
+
+### ✅ Tech meeting
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-10-02
+
+### ✅ Office Stock Collection
+- **Assignee:** Unassigned
+- **Due:** 2023-09-29
+
+### ✅ SnapAV Updated pricelist
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-29
+- **Notes:** Looking at a product on SnapAV not loaded on jetbuilt. Item code: AN-520-RT. Requested login details or latest pricelist.
+
+### ✅ Confirm if Tristan followed procedure for leave today
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-29
+
+### ✅ clouds+vrymans fibre meet with Jaco
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Site walk at clouds and vrymans with jaco checking possible routing, positions, line of sight etc for wireless fibre
+
+### ✅ Pick up imti at Harrigan and drop at Barons
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-28
+
+### ✅ Pick up Imti at Barons
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-28
+
+### ✅ Drop off cable for Clyde
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-28
+
+### ✅ Staff catchup
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Wheel balancing
+- **Assignee:** Stafford
+- **Due:** 2023-10-09
+
+### ✅ Tech meeting/office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-09-28
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-09-28
+
+### ✅ Meeting notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-28
