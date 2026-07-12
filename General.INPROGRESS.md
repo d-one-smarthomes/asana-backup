@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 2400 (2381 completed)
+**Tasks captured in this partial backup:** 2600 (2581 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -48,7 +48,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (2400 of 3680 total, 2381 completed)
+## Tasks captured so far (2600 of 3680 total, 2581 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -10803,4 +10803,824 @@ Please follow up on this money outstanding
 ### ✅ Never order RG6. We have LOADS
 - **Assignee:** Caren Bailey
 - **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-12-13
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-12-13
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Can we use service section for services? Amanda in DEAR
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Load the template attached into DEAR
+- **Assignee:** Caren Bailey
+- **Due:** 2021-12-09
+
+### ✅ Order tick lists for Mel
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-12-09
+
+### ✅ New site GSquared
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-12-08
+- **Notes:** 20 Kinnoull Rd, Builder: Unser, Architect: gsquared architects.
+
+### ✅ Update numbers template
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Pay Tristan R7k for the month Nov-Dec
+- **Assignee:** Amanda
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-12-06
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ DEAR integration
+- **Assignee:** Amanda
+- **Due:** 2021-12-16
+- **Notes:** Setup DEAR so we can use it as our Sales process.
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-12-02
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Make a key plan. The store keys are in your top drawer. And the office key in Yolanda's office
+- **Assignee:** Caren Bailey
+- **Due:** 2021-11-30
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-11-29
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-11-29
+
+### ✅ Check harvest
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Confirm which address is Darrens69 and update name on Afrihost site
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Find out what the address is at Darrens44 on Afrihost
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-11-25
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Put darren in contact with Navavi
+- **Assignee:** Unassigned
+- **Due:** 2021-11-22
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-11-22
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-11-22
+
+### ✅ Drop stock and Lutron at homemation
+- **Assignee:** Stafford
+- **Due:** 2021-11-19
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-11-18
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-11-15
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-11-15
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-11-11
+
+### ✅ Pay Amy for Wolfie
+- **Assignee:** Amanda
+- **Due:** 2021-11-10
+- **Notes:** R3875, Standard Bank, AR Kropman.
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-11-08
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-11-08
+
+### ✅ Accounts Meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Increase services dayrate
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-11-02
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-11-02
+
+### ✅ Staff Financial management course (Justin)
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Calculate Benji Cost to Company and break it down
+- **Assignee:** Amanda
+- **Due:** 2021-11-11
+
+### ✅ Homemation
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-28
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-10-28
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-10-28
+
+### ✅ Snap One software
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accept family sharing link from iCloud
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Accept family sharing link from iCloud
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Return Macbook to Darren's house
+- **Assignee:** Unassigned
+- **Due:** 2021-10-30
+- **Notes:** Doesn't make sense to sell, will need it for Presales member that joins D-One.
+
+### ✅ Investigate family sharing privacy
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-10-25
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-10-25
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-10-21
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-10-21
+
+### ✅ Invoice Dani for one of the phones at cost price
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-26
+
+### ✅ Send Digicape invoice to Lorraine
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-10-18
+
+### ✅ Meeting notes.
+- **Assignee:** Stafford
+- **Due:** 2021-10-18
+
+### ✅ Digicape order
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-18
+- **Notes:** Place order with Digicape, get discount. 2x iPhones.
+
+### ✅ Letterhead giving Mel proxy for C-Track
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Overtime document
+- **Assignee:** Amanda
+- **Due:** 2021-10-19
+- **Notes:** Explain salary ranges with/without overtime, reference Employment act, bonus criteria for roles without overtime pay.
+
+### ✅ iCloud space issue for team
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-10-14
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-10-14
+
+### ✅ Talk to C-track and tell them that the Fortuner reg: D ONE WP has been sold
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-25
+- **Notes:** Car sold to Audi Century City, find out procedure for new car purchase and cancellation policy.
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-10-11
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-10-11
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Fibre report - go through all ins and outs with each client
+- **Assignee:** Caren Bailey
+- **Due:** 2021-11-18
+
+### ✅ Next shipment eta to Eitan
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-06
+
+### ✅ Data sim cards
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-08
+- **Notes:** Research Vodacom/MTN/Rain/Telkom/Cell-C for non-expiring data sim cards, need 3, report options in Asana.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-10-04
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-10-04
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Where is fuel accounted for in Xero?
+- **Assignee:** Amanda
+- **Due:** None
+- **Notes:** On the P&L it hasn't been recorded under fuel for the last year or two.
+
+### ✅ Invoice Stafford
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-04
+
+### ✅ Design Meeting
+- **Assignee:** Unassigned
+- **Due:** 2021-11-30
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-09-30
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-09-30
+
+### ✅ Setup a dealership with Sony
+- **Assignee:** Caren Bailey
+- **Due:** 2021-10-01
+- **Notes:** Sony 4K home cinema projectors dealership.
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-09-20
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Tasks for stock to Mel. Talk to Benji.
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-09-16
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-09-16
+
+### ✅ Accounts meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-09-16
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ WAPS for Brad
+- **Assignee:** Caren Bailey
+- **Due:** 2021-09-16
+- **Notes:** Order 2x UAP-AC-LR from Scoop, delivery to North Oaks Estate Hout Bay for Brad Morgan, no invoicing needed.
+
+### ✅ Do we have 2x UPA-AC-LR in stock?
+- **Assignee:** Caren Bailey
+- **Due:** 2021-09-14
+
+### ✅ Ask darren whiskey
+- **Assignee:** Unassigned
+- **Due:** 2021-09-13
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-09-13
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-09-13
+
+### ✅ IRs
+- **Assignee:** Caren Bailey
+- **Due:** 2021-09-09
+
+### ✅ Polish D1 profile.
+- **Assignee:** Unassigned
+- **Due:** 2021-09-07
+- **Notes:** Make sure all headings have same coordinates for consistency, size all pics to fit the page.
+
+### ✅ Business cards / updated company profile
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-09-07
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-09-06
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Unregister Darren as a shareholder of Summore Engine room pty Ltd
+- **Assignee:** Caren Bailey
+- **Due:** 2021-09-11
+- **Notes:** Contact CIPC to find out what's needed to remove from this company that never launched.
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-09-02
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-09-02
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-30
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-08-30
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-08-26
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-26
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-08-26
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-23
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-08-23
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-08-19
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-19
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-12
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+- **Notes:** What changes need to be made? Document here.
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-10
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-08-10
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-08-05
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-05
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Pay PAYE to SARS. Apparently it's late.
+- **Assignee:** Amanda
+- **Due:** 2021-08-02
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-08-02
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-08-02
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-07-26
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-07-26
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-07-22
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-07-22
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-07-19
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-07-19
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Sick leave
+- **Assignee:** Caren Bailey
+- **Due:** 2021-07-13
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-07-12
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-07-12
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Review bank accounts in meeting to select account type for deposits
+- **Assignee:** Caren Bailey
+- **Due:** 2021-07-15
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-07-08
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Invoice Spinazze
+- **Assignee:** Caren Bailey
+- **Due:** 2021-07-09
+
+### ✅ Deposits, accounts, PO report
+- **Assignee:** Caren Bailey
+- **Due:** 2021-07-13
+- **Notes:** Report on projects, what's deposited and stored separately in the deposit account.
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-07-05
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-07-01
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-07-01
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Let me know if yoga ball is at the office
+- **Assignee:** Caren Bailey
+- **Due:** 2021-07-02
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-06-28
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-06-28
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-06-24
+
+### ✅ Nexus status
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** What has happened with the discount?
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-06-21
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2021-06-14
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-06-14
+
+### ✅ Finance
+- **Assignee:** Amanda
+- **Due:** None
+
+### ✅ Caddy license & polo
+- **Assignee:** Amanda
+- **Due:** 2021-06-11
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Ask a surf shop for a quote for a new surfboard
+- **Assignee:** Caren Bailey
+- **Due:** 2021-06-08
+- **Notes:** 6.0 squash tail thruster surfboard quote for insurance claim - Lifestyle, KISS or Billabong surf shop.
+
+### ✅ meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-06-07
+
+### ✅ send final invoice
+- **Assignee:** Caren Bailey
+- **Due:** 2021-06-07
+- **Notes:** Final invoice for Graeme Kemp, both CCTV and Network completed.
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-06-07
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2021-06-07
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2021-06-03
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-06-03
+
+### ✅ Confirm of Josh has been Paid
+- **Assignee:** Amanda
+- **Due:** 2021-06-02
+
+### ✅ Courses on Homemation portal
+- **Assignee:** Unassigned
+- **Due:** 2021-06-04
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-05-31
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2021-05-31
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Demo Unifi ui design for cctv designs and access point deployment
+- **Assignee:** Unassigned
+- **Due:** 2021-05-28
+- **Notes:** New software released by ubiquiti.
+
+### ✅ Call Graeme kemp to schedule
+- **Assignee:** Unassigned
+- **Due:** 2021-05-27
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Setup a suppliers contacts list in Asana
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Subtask per supplier with contact name and details, products in description field.
 
