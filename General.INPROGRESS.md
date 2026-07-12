@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 1800 (1782 completed)
+**Tasks captured in this partial backup:** 2000 (1981 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -48,7 +48,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (1800 of 3680 total, 1782 completed)
+## Tasks captured so far (2000 of 3680 total, 1981 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -8308,4 +8308,840 @@ Just the desk, office chair, standing desk planks, leave the couch.
 - **Notes:** Hi Mel
 
 Please follow up on this money outstanding
+
+### ✅ Office status and VOIP phone - DVD/General
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-20
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-02-20
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-20
+
+### ✅ Mail Marnita Thursday?
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-20
+
+### ✅ Imti Week plan
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-20
+
+### ✅ Reschedule money talk
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Val De Vie Registration Completion
+- **Assignee:** Unassigned
+- **Due:** 2023-02-15
+
+### ✅ Get a Voys Phone Extension for Imti via App
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-15
+- **Notes:** Need an extension to be setup for Imti so that he can setup Voys App on Phone
+
+### ✅ Email signature
+- **Assignee:** Amanda
+- **Due:** 2023-02-24
+- **Notes:** Create a generic email signature that we can all use in our Gmail.
+
+### ✅ Office plan
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Plan tasks to get top office ready.
+
+### ✅ Arrange screen. Measure Maitland top office width and height of wall
+- **Assignee:** Amanda
+- **Due:** 2023-02-15
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-13
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-13
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-02-13
+
+### ✅ Arrange business vehicle license with VW sales guy
+- **Assignee:** Amanda
+- **Due:** 2023-03-23
+
+### ✅ Billable Services
+- **Assignee:** Amanda
+- **Due:** None
+- **Notes:** Going forward, hours allocated to callouts must be allocated to Services Tech/Programming rates in Harvest.
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-13
+
+### ✅ Add Mekyle to Asana D-One Organization
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-10
+
+### ✅ Add new Projects to Harvest via Asana
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-16
+
+### ✅ Let me know if you can see all projects, or only a few
+- **Assignee:** Unassigned
+- **Due:** 2023-02-10
+
+### ✅ Add Mekyle to Asana
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-13
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-02-09
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-09
+
+### ✅ Make more T-shirts and polos for Imti and Mikyle
+- **Assignee:** Amanda
+- **Due:** 2023-03-23
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-16
+
+### ✅ Plan for next week
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** I will introduce you to the projects this week.
+
+### ✅ Get Parallels sorted for Imti
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-06
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-02-06
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Benji to attend Tech meeting in the car enroute to Paarl, to be in Paarl 08:30
+- **Assignee:** Unassigned
+- **Due:** 2023-02-06
+
+### ✅ Create Equipment list template in Jetbuilt
+- **Assignee:** Unassigned
+- **Due:** 2023-02-07
+- **Notes:** Go to Designer and create a new page.
+
+### ✅ Download and Learn XDiagram
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Fix Mellisa Printer, Configure VOX Phone and Sonos
+- **Assignee:** Unassigned
+- **Due:** 2023-02-07
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-02-02
+
+### ✅ Add 5 Ave des huguenots to harvest.
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-02
+
+### ✅ Share integrator Google calendar with:
+- **Assignee:** Unassigned
+- **Due:** 2023-02-03
+
+### ✅ Complete tutorials
+- **Assignee:** Unassigned
+- **Due:** 2023-02-28
+
+### ✅ Cancel Benji's leave for today. He worked remotely.
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-02
+
+### ✅ Bring small desk from warehouse for Imti in Paarl. And chair
+- **Assignee:** Stafford
+- **Due:** 2023-02-01
+
+### ✅ Leave-Benji
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-01
+- **Notes:** Did you load Benji's leave from last week? Formal application follow up needed.
+
+### ✅ KPI
+- **Assignee:** Tristan Capes
+- **Due:** 2023-02-03
+- **Notes:** KPI document to fill out with detail under all bold lines (Admin, Jetbuilt etc).
+
+### ✅ KIP - Benji
+- **Assignee:** Amanda
+- **Due:** 2023-02-14
+- **Notes:** KPI document to fill out with detail under all bold lines.
+
+### ⬜ KPI- Detail
+- **Assignee:** Stafford
+- **Due:** None
+- **Notes:** KPI document to fill out with detail under all bold lines.
+
+### ✅ Update pricing on Jetbuilt for AV projects slab boxes. R400 cost and R680 ex retail
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Make Imti a new book
+- **Assignee:** Amanda
+- **Due:** 2023-01-31
+
+### ✅ Identify Afrihost client
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-02
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-01-30
+
+### ✅ Mekyle and IMTI access at VDV
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-14
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-01-30
+
+### ✅ Return P5 demo stock that was in the office
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Send money workshop to Imti
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-01-30
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-01-30
+
+### ✅ Vision board
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Share marketing and pricelist with accounts
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-01-26
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-01-23
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2023-01-23
+
+### ✅ Get dealer account with ecoflow.co.za
+- **Assignee:** Caren Bailey
+- **Due:** 2023-01-31
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Arrange shelving for 2nd store
+- **Assignee:** Caren Bailey
+- **Due:** 2023-01-25
+- **Notes:** We need to organize the stock in the second store.
+
+### ✅ Pay Mikyle please
+- **Assignee:** Amanda
+- **Due:** 2023-01-20
+
+### ✅ Add new laptop to insurance
+- **Assignee:** Amanda
+- **Due:** 2023-01-26
+
+### ✅ Takealot
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-01-19
+- **Notes:** We need takealot invoices, log in details requested.
+
+### ✅ Leave forms
+- **Assignee:** Caren Bailey
+- **Due:** 2023-01-23
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-01-19
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-01-19
+
+### ✅ Do Jetbuilt training session with sales people
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Tristan technician@d-one.co.za for simple pay
+- **Assignee:** Amanda
+- **Due:** 2023-01-18
+
+### ✅ Create account at Mustek
+- **Assignee:** Caren Bailey
+- **Due:** 2023-01-19
+
+### ✅ Darren's couch to Maitland
+- **Assignee:** Stafford
+- **Due:** 2023-02-03
+- **Notes:** Collect couch from VDV and take to Maitland office
+
+### ✅ Organize SONOS Roam for office
+- **Assignee:** Caren Bailey
+- **Due:** 2023-01-25
+
+### ✅ Setup account on Digicape website for D-One with our discount
+- **Assignee:** Caren Bailey
+- **Due:** 2023-01-19
+
+### ✅ Ask Marc Top CCTV where all the rebate stock is.
+- **Assignee:** Caren Bailey
+- **Due:** 2023-01-23
+
+### ✅ Toolbox check list
+- **Assignee:** Stafford
+- **Due:** None
+- **Notes:** Populate this and run through with the team quarterly in 2023.
+
+### ✅ Find out how to book stock in and out on Jetbuilt
+- **Assignee:** Caren Bailey
+- **Due:** 2022-12-12
+
+### ✅ Jetbuilt Version template
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** 1.2 MS|12Dec22 Description: Reference.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-12-12
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-12-12
+
+### ✅ Order Tristan's sunnies for delivery to his house
+- **Assignee:** Caren Bailey
+- **Due:** 2023-02-10
+
+### ✅ Followups list
+- **Assignee:** Stafford
+- **Due:** 2022-12-12
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-12-08
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-12-05
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Deliver bike from Darren's garage to klapmuts where cable goes
+- **Assignee:** Tristan Capes
+- **Due:** 2022-12-02
+- **Notes:** The small Specialized black and red one
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-12-01
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Arrange to have demos collected from Sutherland reception and delivered to Homemation and Planetworld
+- **Assignee:** Caren Bailey
+- **Due:** 2022-12-07
+
+### ✅ Send Jason Nautomation
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Collect sunnies
+- **Assignee:** Unassigned
+- **Due:** 2023-03-06
+
+### ✅ Cancel HArvest etc.
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Publish holidays to staff. Check when Base opens 2023
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-28
+
+### ✅ Ask Marc Kruger if he can do audits on our projects
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-11-28
+
+### ✅ Tristan 1 year voucher
+- **Assignee:** Caren Bailey
+- **Due:** 2022-11-28
+- **Notes:** Buy a R1000 superbalist or takealot voucher and give to Tristan for 1 year gift from D1.
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ End 2022 plan
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-12-15
+- **Notes:** Please see the plan for the end of the year. This is where each of us needs to be focused to wrap up 2022.
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-24
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-11-24
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Move Jetbuilt templates into correct systems
+- **Assignee:** Caren Bailey
+- **Due:** 2022-11-22
+
+### ✅ Soccer World cup R500 bet
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-12-18
+
+### ✅ Look into virtual cards for Tristan/Stafford
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-21
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-11-21
+
+### ✅ Update details
+- **Assignee:** Caren Bailey
+- **Due:** 2022-11-21
+
+### ✅ Setup business WhatsApp
+- **Assignee:** Caren Bailey
+- **Due:** 2022-11-18
+
+### ✅ create automated message for whatsapp business
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-11-17
+
+### ✅ Setup business WhatsApp
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-11-17
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-17
+
+### ✅ Setup monthly email with all suppliers bcc'd in to ask for new price updates. Automate it to send monthly.
+- **Assignee:** Caren Bailey
+- **Due:** 2022-11-30
+
+### ✅ Call Etienne re Spilhaus
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-14
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-11-14
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-11-10
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-10
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-07
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-11-07
+
+### ✅ 9CD alarm and pool terrace speakers
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Fluke testers
+- **Assignee:** Stafford
+- **Due:** None
+- **Notes:** Facebook marketplace listing link for fluke testers.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-11-03
+
+### ✅ Upload the following projects main quote into Jetbuilt
+- **Assignee:** Unassigned
+- **Due:** 2022-11-16
+- **Notes:** Mel will chat to you about how and what to do.
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Assign project migrations over to Caren
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Link Jetbuilt to suppliers
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-31
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-10-31
+
+### ✅ Change fibre name from SLA to fibre
+- **Assignee:** Caren Bailey
+- **Due:** 2022-10-31
+- **Notes:** Clients think they have an SLA with us and expect service. We need to change the name of the monthly SLA to Internet data.
+
+### ✅ Accounts meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-10-27
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-27
+
+### ✅ FICA FNB
+- **Assignee:** Amanda
+- **Due:** 2023-03-23
+- **Notes:** FNB: Business FICA info required. Select Business Solutions > Compliance update on online banking to remain compliant.
+
+### ✅ Correct pricing in Jetbuilt
+- **Assignee:** Caren Bailey
+- **Due:** 2022-10-25
+- **Notes:** Pricing loaded incorrectly for Khumalo quote, needs urgent correction to match current supplier pricelists.
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-24
+
+### ✅ Invoice Rachel 102 Builders
+- **Assignee:** Caren Bailey
+- **Due:** 2022-11-01
+- **Notes:** Please invoice Rachel for a call out at 102 Boulders - swop and configure router, 1 hour.
+
+### ✅ Create database for new products from Planetworld
+- **Assignee:** Caren Bailey
+- **Due:** 2022-10-20
+- **Notes:** Audioquest, Adeo, Black Nova, Cambridge, Dali, iPort, Jamo, M&K, Onkyo, Parasound, Pioneer, Vogels, Vogels pro, Velodyne. And TOP CCTV attached.
+
+### ✅ Prepare these for import into Jetbuilt
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Planetworld, Vogels, M&K, Pioneer, TOP CCTV
+
+### ✅ Talk to jet build and send them our supplier contact details for updating pricelists
+- **Assignee:** Caren Bailey
+- **Due:** 2022-10-25
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-10-20
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-20
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-10-20
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Receipt stock
+- **Assignee:** Unassigned
+- **Due:** 2022-09-05
+
+### ✅ Stock Receipt
+- **Assignee:** Unassigned
+- **Due:** 2022-09-15
+- **Notes:** receipt stock
+
+### ✅ Stock Take
+- **Assignee:** Unassigned
+- **Due:** 2022-09-26
+
+### ✅ Find equipment
+- **Assignee:** Unassigned
+- **Due:** 2022-09-06
+- **Notes:** Looking for a full size pizza tray to bake large pizzas in a Weber Braai (need 3) and a size 14 Potjie pot.
+
+### ✅ Organize 15 multicoloured helium balloons to be delivered to Boschendal Friday am
+- **Assignee:** Unassigned
+- **Due:** 2022-09-08
+- **Notes:** Order 20 multicoloured helium balloons on strings, collect in Paarl Friday morning.
+
+### ✅ Follow up on "Find equipment"
+- **Assignee:** Unassigned
+- **Due:** 2022-09-07
+
+### ✅ Stock receipt
+- **Assignee:** Unassigned
+- **Due:** 2022-09-08
+- **Notes:** Melissa
+
+### ✅ Stock Received
+- **Assignee:** Unassigned
+- **Due:** 2022-10-03
+
+### ✅ Sell office desks. Info tomorrow
+- **Assignee:** Unassigned
+- **Due:** 2022-10-17
+- **Notes:** Try core, will fill you in tomorrow
+
+### ✅ Meeting notes
+- **Assignee:** Tristan Capes
+- **Due:** 2022-10-17
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-10-17
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-17
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2022-10-17
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-13
+
+### ✅ Discuss call-waiting with Voys
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Do Numbers quote for:
+- **Assignee:** Caren Bailey
+- **Due:** 2022-10-13
+- **Notes:** Quote with 2 sections: Savant and Control4, comparing main processors, wall keypads, touch screens, dimmer and relay modules.
+
+### ✅ Ask Kim Homemation to ship notebooks with our next stock delivery to the warehouse
+- **Assignee:** Caren Bailey
+- **Due:** 2022-10-11
+
+### ✅ Setup accounts prep meetings
+- **Assignee:** Amanda
+- **Due:** 2022-10-10
+- **Notes:** Go through weekly winnings reports during tech meeting so details are ready for accounts meeting at 9, Mondays and Thursdays. Setup recurring Google Meet.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2022-10-10
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-10
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Find out if the Contractor gate is opening again?
+- **Assignee:** Amanda
+- **Due:** 2022-10-13
+- **Notes:** Ask Val de Vie if they are going to open the contractor gate again. Our guys are losing a lot of time queueing at the gate.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-06
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-10-03
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-10-03
+
+### ✅ Count all keypads
+- **Assignee:** Tristan Capes
+- **Due:** None
+
+### ✅ Bring caps to VDV
+- **Assignee:** Unassigned
+- **Due:** 2022-10-17
+- **Notes:** Done
+
+### ✅ Ask Afrihost for Coupons for fibre lines. We should be getting discounts from them. When applying they have a space to enter coupons.
+- **Assignee:** Unassigned
+- **Due:** 2023-02-10
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2022-09-26
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2022-09-26
+
+### ✅ Purchase network adapter for Stafford apple laptop
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Did we order D-One caps on the end?
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Receipt Stock
+- **Assignee:** Unassigned
+- **Due:** 2022-09-21
+- **Notes:** Receiving Stock
+
+### ✅ Update DEAR pricing with TOP CCTV pricelist in pricelist folder
+- **Assignee:** Caren Bailey
+- **Due:** 2022-09-30
+
+### ✅ Helmet into car, add branding and name
+- **Assignee:** Darren Swanepoel
+- **Due:** None
 
