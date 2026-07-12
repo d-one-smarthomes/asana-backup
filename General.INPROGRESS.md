@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 1700 (1682 completed)
+**Tasks captured in this partial backup:** 1800 (1782 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -38,7 +38,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (1700 of 3680 total, 1682 completed)
+## Tasks captured so far (1800 of 3680 total, 1782 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -7866,4 +7866,436 @@ Spectrum, Planetworld, Homemation, Scoop, Top CCTV, Sensor.
 ### ✅ Schedule savant training
 - **Assignee:** Unassigned
 - **Due:** None
+
+### ✅ Give imti Olarm site serial numbers
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-04-20
+
+### ✅ Need time With Amanda Repair Procedure
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Savant and P5 Time
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Hikvsion Intercom Monitor Password Reset
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Windows PC
+- **Assignee:** Amanda
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-04-17
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-04-17
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-04-17
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-04-13
+
+### ✅ Advertise for a technician again - we're still looking
+- **Assignee:** Caren Bailey
+- **Due:** 2023-04-13
+
+### ✅ Send Latest numbers D-One VW Silver Polo KM Petrol Claim
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-04-11
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-04-11
+
+### ✅ Let Gilbert go
+- **Assignee:** Amanda
+- **Due:** 2023-04-11
+- **Notes:** Sounds like he's not a D1 fit.
+
+### ✅ Train Benji on servicing process
+- **Assignee:** Amanda
+- **Due:** 2023-04-11
+
+### ✅ Setup Olarm Portal witjh clients loaded
+- **Assignee:** Unassigned
+- **Due:** 2023-04-28
+
+### ✅ Savant Training Questions
+- **Assignee:** Unassigned
+- **Due:** 2023-12-21
+
+### ✅ Invoice Frame R20k ex VAT for Ref: Refundable design services House Khumalo
+- **Assignee:** Caren Bailey
+- **Due:** 2023-04-17
+
+### ✅ Consider this option for servicing and feed back
+- **Assignee:** Amanda
+- **Due:** 2023-04-06
+- **Notes:** https://jetbuilt.com/uk/service/
+
+Might be cost prohibitive
+
+### ✅ Systems adoption
+- **Assignee:** Unassigned
+- **Due:** 2023-04-06
+- **Notes:** Ramp up adoption of Asana, Calendar and Harvest. 
+We use these tools daily for project updates and communication. 
+They allow us to communicate very efficiently and clearly. It also gives us a record to refer back to. 
+Please update them daily. And start to build the practice. 
+
+- Asana for all actions and feedback on projects.
+- Calendar for movements. Keep it current and updated to make easy pulling data to harvest. 
+- Harvest for time allocation. 
+
+This data gives us great ammo for billing.
+
+### ✅ tech training with suppliers
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** https://app.asana.com/0/726298113552142/726298113552142 , https://app.asana.com/0/349302067847971/349302067847971 Can explain and elaborate regards to the above
+
+### ✅ Consider this for servicing and RMA - Give feedback
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** https://jetbuilt.com/service/
+
+### ✅ Prepare all savant questions for programming training
+- **Assignee:** Unassigned
+- **Due:** 2023-04-07
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-04-14
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-04-03
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-04-03
+
+### ✅ Take the vehicle for a roadworthy test in order to get a license disk.
+- **Assignee:** Unassigned
+- **Due:** 2023-04-05
+
+### ✅ Cable Feeders Systems
+- **Assignee:** Unassigned
+- **Due:** 2023-03-31
+- **Notes:** Account paid short in October and 1 Invoice not captured . According to Xero this is what was paid.
+
+### ✅ Interview new technician
+- **Assignee:** Stafford
+- **Due:** 2023-03-31
+- **Notes:** Last day of the month. So if he's gonna give notice. Nows the time.
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Please book back in General Stock
+- **Assignee:** Caren Bailey
+- **Due:** 2023-03-31
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-30
+
+### ✅ Hand over projects and contacts to Stafford
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-03-31
+
+### ✅ Send all contact details to Marnita
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Spectrum training when Darren returns
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-27
+
+### ✅ Complete Savant training
+- **Assignee:** Unassigned
+- **Due:** 2023-04-28
+
+### ✅ Do savant portal programming training
+- **Assignee:** Tristan Capes
+- **Due:** 2023-06-23
+- **Notes:** Speak to Rudi if need be. And get sorted on portal and training.
+
+### ✅ Visit Dahua Century City instead of Somerset west
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** They have a demo facility in Century City. Ask Marc to setup a demo for you there. Instead of Somerset West.
+
+### ✅ Feb - Service report
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Get certified ID
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-03-24
+
+### ✅ Tracker query on Polo
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Send Tiffany research pack for D-One and prep for internehip
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-05-08
+- **Notes:** Help us go from reaction to planned.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-23
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Create RMA process in Asana
+- **Assignee:** Amanda
+- **Due:** 2023-03-23
+- **Notes:** https://app.asana.com/0/1203778673624658/list will help create the procedure for this.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-20
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-20
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-20
+
+### ✅ Inform Tristan of his raise amount
+- **Assignee:** Amanda
+- **Due:** 2023-03-23
+
+### ✅ Sort office for Imti
+- **Assignee:** Stafford
+- **Due:** 2023-03-22
+- **Notes:** Arrange banner, desks, screens etc.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-03-16
+- **Notes:** I'll observe, Stafford and Imti run through notes.
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-03-16
+
+### ✅ Send technician ad to Imti so he can share it.
+- **Assignee:** Caren Bailey
+- **Due:** 2023-03-13
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-16
+
+### ✅ Take desk etc to Maitland in the caddy
+- **Assignee:** Stafford
+- **Due:** 2023-03-13
+- **Notes:** It's in my garage
+Just the desk, office chair, standing desk planks, leave the couch.
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Fill out poll on D-One WhatsApp for money mindset workshop
+- **Assignee:** Stafford
+- **Due:** 2023-03-10
+
+### ✅ Tracker mileage 2025
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Get details from Mands to allocate mileage to business travel on the Tracker app.
+
+### ✅ Send serial numbers of both Araknis 16port switches to see why we ordered them
+- **Assignee:** Caren Bailey
+- **Due:** 2023-03-23
+
+### ✅ Add to general
+- **Assignee:** Caren Bailey
+- **Due:** 2023-03-15
+
+### ✅ Accounts notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Update credit card for Afrihost
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Check all Lutron specs when ordering with Homemation
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** I made an error on a code. They asked if we can just let them know when we're ordering Lutron, and they'll double check our orders t make sure they're compatible for us.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-06
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-06
+
+### ✅ Interview Rikie
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-03-06
+
+### ✅ Let staff know that there are no more loans.
+- **Assignee:** Amanda
+- **Due:** 2023-03-10
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-02
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-03-02
+
+### ✅ Collect mobile AC from office
+- **Assignee:** Unassigned
+- **Due:** 2023-03-01
+
+### ✅ Train technicians on how you want them to log Harvest services and programming.
+- **Assignee:** Amanda
+- **Due:** 2023-03-23
+
+### ✅ Postpone meetings
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-27
+
+### ✅ Look into projects to invoice
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-03-03
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-27
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-02-27
+
+### ✅ Accounts notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-27
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-27
+
+### ✅ Postpone money workshop
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-03-02
+
+### ✅ Email signature
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-23
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-02-23
+
+### ✅ Business registration for vehicles
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-27
+
+### ✅ General Stock take
+- **Assignee:** Unassigned
+- **Due:** 2023-02-23
+- **Notes:** General stock take had to do manual count and write down item codes and descriptions as loadshedding and Melissa capturing on Jetbuild.
+
+### ✅ Create Login for integrator@d-one.co.za on Engenius cloud
+- **Assignee:** Unassigned
+- **Due:** 2023-02-21
+
+### ✅ Get the word out we are looking for another team. And let me know if we need Pin Point short term
+- **Assignee:** Stafford
+- **Due:** 2023-02-22
+
+### ✅ Look at stock value beginning and end of period. Apparently we can hide profit here
+- **Assignee:** Amanda
+- **Due:** None
+
+### ✅ We should earth racks and everything in them
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-02-21
+
+### ✅ Give Benji access to Xero quotes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Money Follow UP
+- **Assignee:** Caren Bailey
+- **Due:** 2023-03-08
+- **Notes:** Hi Mel
+
+Please follow up on this money outstanding
 
