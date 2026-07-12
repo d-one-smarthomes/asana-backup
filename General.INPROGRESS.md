@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 3000 (2981 completed)
+**Tasks captured in this partial backup:** 3200 (3181 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -48,7 +48,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (3000 of 3680 total, 2981 completed)
+## Tasks captured so far (3200 of 3680 total, 3181 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -13315,4 +13315,863 @@ Please follow up on this money outstanding
 - **Assignee:** Stafford
 - **Due:** 2020-05-04
 - **Notes:** Still need leave form for 04/03.
+
+### ✅ List of architects we onboard with
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-03-13
+- **Notes:** Can you give me a list of architects we work with so I can look at others to get in contact with and drop off portfolios and get on there database
+
+### ✅ Team building
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Create a few sub tasks with ideas for team building ideas we can consider
+
+### ✅ Charles 9 Hugo road 
+- **Assignee:** Unassigned
+- **Due:** 2020-05-15
+- **Notes:** Cloud key - for network. Usg -
+
+### ✅ Logo
+- **Assignee:** Unassigned
+- **Due:** 2020-03-10
+- **Notes:** Have you had time to send me the logo in the square format for SnapScan?
+
+### ✅ Learn how to use Numbers quotes
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Check hikvision alarm integration with control 4/savant 
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Payment for the vehicle. 
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-09
+
+### ✅ Wesbank Contract
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-03-05
+- **Notes:** Please sign the amended contract. Luvo requires this asap.
+
+### ✅ Scott and Partners 
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Training to be discussed/offsite planning/offsite configuration/last minute bombs. 
+- **Assignee:** Stafford
+- **Due:** 2020-03-09
+
+### ✅ Reconnect 3rd camera in the store room
+- **Assignee:** Unassigned
+- **Due:** 2020-03-05
+
+### ✅ Contact c-track and get a quote to add The Polo to our account 
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-11
+
+### ✅ SO Report
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-04
+
+### ✅ Investigate SnapScan for clients to pay for call-outs on the spot 
+- **Assignee:** Amanda
+- **Due:** 2020-03-06
+
+### ✅ Rearrange all Asana projects - current ones on top
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Create a letterehad for fibre for all clients
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-06
+
+### ✅ Collections 
+- **Assignee:** Unassigned
+- **Due:** 2020-02-20
+
+### ✅ Update AV dims template
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Feedback
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-19
+- **Notes:** Information regarding sites and work. Detail on Asana tasks needs more info
+
+### ✅ Military road update 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-14
+
+### ✅ Move Payfast to Current Account
+- **Assignee:** Amanda
+- **Due:** 2020-02-24
+
+### ✅ Get samples for the t-shirts
+- **Assignee:** Caren Bailey
+- **Due:** 2020-03-13
+
+### ✅ Order WAP long range. 
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-11
+
+### ✅ Please check for Denon amps in technical and give Darren feedback 
+- **Assignee:** Unassigned
+- **Due:** 2020-02-10
+
+### ✅ Please sort out the tech room, check with Darren whats what regarding Savant/C4
+- **Assignee:** Unassigned
+- **Due:** 2020-02-10
+
+### ✅ Send everyone their leave status 
+- **Assignee:** Amanda
+- **Due:** 2020-02-28
+
+### ✅ Sort last week call outs 
+- **Assignee:** Unassigned
+- **Due:** 2020-02-11
+- **Notes:** Send all information for invoicing
+
+### ✅ Leave
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-10
+- **Notes:** I am outstanding two leave forms - One for last month and then one for this week.
+
+### ✅ Clean up SO
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-13
+- **Notes:** Please clean up the SO. We may need to go through this together.
+
+### ✅ To be Invoiced (301 Main apartments)
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Please can you have a look at the pic attached. According to me this should have been invoiced to the client. It's for a UAP plus installation.
+
+### ✅ Clear general room
+- **Assignee:** Unassigned
+- **Due:** 2020-02-14
+
+### ✅ Get ETA for Oakleys for Stafford and Riedwaan from your connection.
+- **Assignee:** Unassigned
+- **Due:** 2020-02-05
+
+### ✅ Organizational structure 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-06
+- **Notes:** It is important to consider the organizational culture in which your project is taking place, as this could help you plan the project in the best and most effective way.
+
+### ✅ Test Chromecast @ Darrens place 
+- **Assignee:** Unassigned
+- **Due:** 2020-02-04
+
+### ✅ Savings account access to Mands
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-10
+
+### ✅ Saving Account
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-04
+
+### ✅ Do the GeniusU test and bring the result on Thursday
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-05
+
+### ✅ Standardise on deep round boxes for cameras across all projects
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-01-31
+
+### ✅ Ts & Csm
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-03
+
+### ✅ Ts & Cs
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-01-29
+
+### ✅ Get quote from Luks brands for Venue ANC headphones and Daypack backpack
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-30
+
+### ✅ Discuss Eisgaaq raise and car 
+- **Assignee:** Amanda
+- **Due:** 2020-01-29
+
+### ✅ Charge Ange for a booklet. 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-03
+
+### ✅ Find a VIVO or Etios
+- **Assignee:** Unassigned
+- **Due:** 2020-01-31
+
+### ✅ Ensure that devices are charged and ready
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Find leatherman for Eisgaaq
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-01-28
+
+### ✅ Organize laptop backpack from Takealot for @Eisgaaq
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-28
+
+### ✅ Ensure you have your tools with you 
+- **Assignee:** Unassigned
+- **Due:** 2020-01-29
+
+### ✅ Send Riaan's details to Darren from Smart Spaces
+- **Assignee:** Unassigned
+- **Due:** 2020-01-29
+
+### ✅ Leave
+- **Assignee:** Stafford
+- **Due:** 2020-01-29
+
+### ✅ Invoicing for January?
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-01-28
+
+### ✅ MAnds form for banking access
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-02-07
+
+### ✅ Swop Darren and Dale's desks around
+- **Assignee:** Unassigned
+- **Due:** 2020-01-28
+
+### ✅ Calculate rent and consumables for Ian at 1/6 of total
+- **Assignee:** Amanda
+- **Due:** 2020-01-28
+
+### ✅ Assist with Stock take 
+- **Assignee:** Unassigned
+- **Due:** 2020-02-26
+
+### ✅ Organise radio for the garage
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-28
+
+### ✅ General Stock Take
+- **Assignee:** Caren Bailey
+- **Due:** 2020-02-27
+
+### ✅ Check cost for maitland insurance
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-20
+
+### ✅ Appraisal
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-01-27
+- **Notes:** Forgetfulness - client asking if he's got memory. Use Asana. PLAN ahead. Get more organized. Stafford is the project manager.
+
+### ✅ Send serial numbers for monitors in the office to Heinrich@hblife.co.za
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-17
+
+### ✅ Discuss cable manegement 
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-20
+- **Notes:** Cable to booked out as an allocation at zero and invoiced complete under GL on the SO.
+
+### ✅ Provident fund feedback 
+- **Assignee:** Amanda
+- **Due:** 2020-02-24
+
+### ✅ Melissa raise needs to be as per contract and at 3 Months.
+- **Assignee:** Amanda
+- **Due:** 2020-01-20
+
+### ✅ Arrange more plants for the office. 
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-21
+
+### ✅ Get the list from Amanda for the uniforms. 
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-21
+
+### ✅ Stock to be returned to Planet World
+- **Assignee:** Darren Swanepoel
+- **Due:** 2020-01-16
+- **Notes:** Could you please arrange that the stock is returned for credit before we make any payments.
+
+### ✅ Make sure invoices are not being sent off to Lauren
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-14
+
+### ✅ Clear paper in-trays on desk
+- **Assignee:** Stafford
+- **Due:** 2020-01-13
+
+### ✅ Create a template table with dimensions and pictures of hardware from the quote template 
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+- **Notes:** Table with headers: Width, Height, Depth, Picture
+
+### ✅ G-form quote questionnaire
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-12-19
+
+### ✅ Stonehurst
+- **Assignee:** Stafford
+- **Due:** 2019-12-18
+- **Notes:** Call out: bar speakers and TV Input not working. Stonehurst Mountain Estate.
+
+### ✅ Update all price lists in the G:/ folder and in DEAR
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-20
+
+### ✅ URGENT Send POP for Telkom account
+- **Assignee:** Amanda
+- **Due:** 2019-12-11
+- **Notes:** Please send the Telkom POP to connectadmin@mcsdr.co.za with the reference 502940792
+
+### ✅ Reimbursment
+- **Assignee:** Amanda
+- **Due:** 2019-12-10
+- **Notes:** Could you be so kind to process the attached claim. Hard copies are in your tray.
+
+### ✅ 5m usb cable and Direct Connect interface
+- **Assignee:** Stafford
+- **Due:** 2019-12-09
+- **Notes:** Can you please order the above and get stafford to collect please
+
+### ✅ Order labelling stickers
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-09
+
+### ✅ Debtors
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Call Aubrey from Smart Speakers
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-04
+
+### ✅ Confirm Monday with Andre and Johann
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-12-05
+
+### ✅ 30 day license before payment to Kyle
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-12-02
+
+### ✅ This week
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-12-09
+
+### ✅ ISP Afrika
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-29
+- **Notes:** Received an invoice for Dec, which site is this for.
+
+### ✅ Collect from Debtors
+- **Assignee:** Amanda
+- **Due:** 2019-11-28
+- **Notes:** We need to push Conruton, get Kaya's statement sent, Gilles needs to start moving. Need to get money in before this year ends.
+
+### ✅ Send Kevin the list
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-27
+
+### ✅ Follow up with Bryan re Triad
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-27
+
+### ✅ Triad return
+- **Assignee:** Stafford
+- **Due:** 2019-11-26
+
+### ✅ Order Batteries
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-26
+
+### ✅ Confirm how much turnover D-One has made since 1 June 2019
+- **Assignee:** Amanda
+- **Due:** 2019-11-26
+
+### ✅ Leave
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-29
+- **Notes:** Do I need to have the guys complete any leave for December.
+
+### ✅ Please confirm the hours for the installation etc for Oliver Road..
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-25
+
+### ✅ SAVANT dealer app
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-25
+
+### ✅ Savant to credit us for our first Host + Remote order
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-27
+- **Notes:** They're giving it to us for free. As per Sean's call (22 Nov)
+
+### ✅ Camera quote 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-21
+- **Notes:** camera price: 999.00 ex vat, installation: 600 ex vat. Add markup then discount. Builder - Andrew.
+
+### ✅ Get the schedule for the fingerprints for Darren. 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-21
+
+### ✅ Which D-One value to you believe is the most important to the business succeeding, and why?
+- **Assignee:** Amanda
+- **Due:** 2019-11-22
+
+### ✅ Double check with Barine re Time of vehicle branding
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-21
+
+### ✅ Ask Harleys for footage original from the date in this clip 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-25
+
+### ✅ Which D-One value to you believe is the most important to the business succeeding, and why?
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-22
+
+### ✅ Which D-One value to you believe is the most important to the business succeeding, and why?
+- **Assignee:** Unassigned
+- **Due:** 2019-11-22
+
+### ✅ Which D-One value to you believe is the most important to the business succeeding, and why?
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Which D-One value to you believe is the most important to the business succeeding, and why?
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-22
+
+### ✅ Which D-One value to you believe is the most important to the business succeeding, and why?
+- **Assignee:** Unassigned
+- **Due:** 2019-11-25
+
+### ✅ This week 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-18
+
+### ✅ PM course
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Call Ingrid regarding paint & payment details.
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-15
+
+### ✅ Boudha lounge assist Standard bank 
+- **Assignee:** Unassigned
+- **Due:** 2019-11-28
+
+### ✅ Call Rob Fraser
+- **Assignee:** Unassigned
+- **Due:** 2019-11-14
+
+### ✅ Send D-One Logo (including "one") to Charity that we paid. 
+- **Assignee:** Unassigned
+- **Due:** 2019-11-14
+- **Notes:** Thank you so much for the donation. Please could you send me your logo.
+
+### ✅ Complete this and bring to appraisal 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-14
+
+### ✅ Claim form
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-14
+
+### ✅ IR for Apple TV
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-16
+
+### ✅ Turn on iCloud photos in settings-photos of the iPhone 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-14
+
+### ✅ Computer claim
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-15
+- **Notes:** Message from SAPS. Case registered 2019-11-14 at CAMPS BAY ref nr CAS 19/11/2019.
+
+### ✅ Find out when the police station does fingerprints
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-13
+- **Notes:** For my PSIRA application
+
+### ✅ PO for Jowzebowski russound d250
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Mail Elize report
+- **Assignee:** Unassigned
+- **Due:** 2019-11-13
+
+### ✅ Share your calendar in google with darren@d-one.co.za
+- **Assignee:** Amanda
+- **Due:** 2019-11-13
+
+### ✅ Book return stock into general
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-15
+
+### ✅ Deposit payment to Graffitti for branding 
+- **Assignee:** Amanda
+- **Due:** 2019-11-12
+
+### ✅ Pay Telkom
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-11-15
+
+### ✅ Link for Scoop Pricelist
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-07
+
+### ✅ Leave
+- **Assignee:** Stafford
+- **Due:** 2019-11-07
+- **Notes:** Please make sure you give me your signed leave forms before you take leave. You owe me two now.
+
+### ✅ Credit Card
+- **Assignee:** Unassigned
+- **Due:** 2019-11-08
+- **Notes:** Melissa and I are needing to recon the petty cash accounts. Slips needed within the same week.
+
+### ✅ Find an app that we can use for jobcards
+- **Assignee:** Unassigned
+- **Due:** 2019-11-08
+- **Notes:** Something that we can use on our phones. Great if it integrates to Xero / Asana
+
+### ✅ Recon accounts payable
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-18
+
+### ✅ General Stock
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-30
+- **Notes:** Please bring in (Stock ADJ) PU-1107TX, PU-1107RX. REF From Paradiso
+
+### ✅ Setup Payfast logins for the girls 
+- **Assignee:** Amanda
+- **Due:** 2019-11-04
+- **Notes:** "Payfast@D1" is the new password
+
+### ✅ 7 Arcadia  
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-12-09
+- **Notes:** Quote 3 Adaptive phase dimmers. Quote intercom. Vehicle gate control.
+
+### ✅ Create Apple ID Log in-PC
+- **Assignee:** Amanda
+- **Due:** 2019-11-05
+- **Notes:** Make sure all MAC have an apple ID and that it is logged in at all times. Find my iphone app needs to be installed.
+
+### ✅ Buy USB-C adapter
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-29
+
+### ✅ Chrome password 
+- **Assignee:** Unassigned
+- **Due:** 2019-10-28
+
+### ✅ This week
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Share invoice from Rectron
+- **Assignee:** Amanda
+- **Due:** 2019-10-25
+
+### ✅ Recurring Invoice ISP Afrika
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-25
+- **Notes:** Which location do we add this to.
+
+### ✅ Pay Supersonic and send POP
+- **Assignee:** Amanda
+- **Due:** 2019-10-24
+
+### ✅ Quote template codes to match supplier codes
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-24
+
+### ✅ System
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-29
+
+### ✅ Make sure that we have exported everything we need from Enterprise banking
+- **Assignee:** Amanda
+- **Due:** 2019-10-23
+
+### ✅ Check AG room and date
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-17
+
+### ✅ Review DEAR outstanding SOs in meeting 
+- **Assignee:** Amanda
+- **Due:** 2019-11-05
+
+### ✅ Appraisal 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-21
+
+### ✅ follow up with ruth re quotation
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-17
+
+### ✅ Cancel phone line with Deep Blue
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-15
+
+### ✅ This week
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-14
+
+### ✅ Share a story.
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-31
+- **Notes:** In the comments section of this task, share a story about how one of D-One's values have been made real at work.
+
+### ✅ Get Samsung remote for Luke
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-14
+
+### ✅ ADSL Modem
+- **Assignee:** Unassigned
+- **Due:** 2019-10-10
+- **Notes:** Have you collected or can we cancel.
+
+### ✅ Virtual tech meeting. 
+- **Assignee:** Stafford
+- **Due:** 2019-10-10
+- **Notes:** There's a link in the calendar invite which will connect you to the meeting. Be connected and ready at 7:25.
+
+### ✅ SLA Repeating Invoices
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-12-05
+- **Notes:** Customers with SLA invoice coming up: Glenday 31 Oct, Polak 1 Nov. Please confirm updated SLA agreements.
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-11
+- **Notes:** Please see what slips pertain to two petty cash cards. Stafford's ends on 1000 and Janine's 4000.
+
+### ✅ Recurring Invoices
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-07
+- **Notes:** We need to confirm all recurring invoices and that they are saved and sent once created.
+
+### ✅ Create installer code for all projects 
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** 5112 if 4 digits, 511211 if 6 digits
+
+### ✅ Asana legend
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Keep all action in Asana, including own work. Adding followers where relevant. Green-Sales, Orange-Cabling, Red-Installation, Purple-Snagging, Blue-Complete.
+
+### ✅ Week debrief with Benji - did we succeed this week?
+- **Assignee:** Unassigned
+- **Due:** 2019-09-20
+
+### ✅ Week debrief with Benji - did we succeed this week?
+- **Assignee:** Unassigned
+- **Due:** 2020-03-13
+
+### ✅ Week debrief with Benji - did we succeed this week?
+- **Assignee:** Unassigned
+- **Due:** 2020-03-22
+
+### ✅ Week debrief with Benji - did we succeed this week?
+- **Assignee:** Unassigned
+- **Due:** 2020-05-11
+
+### ✅ Pay Robyn Fergus R700
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-30
+
+### ✅ Send Kevin POP for arc media payment of R1500. 
+- **Assignee:** Amanda
+- **Due:** 2019-10-07
+
+### ✅ Payfast
+- **Assignee:** Amanda
+- **Due:** 2019-10-07
+- **Notes:** We need to work out a process to get the money to the main account.
+
+### ✅ get quote for patch panel
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-03
+- **Notes:** Please get a quote for a crone cat6 patch panel. Actsys - 021 555 2222
+
+### ✅ Add website to HubSpot track traffic 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-08
+
+### ✅ Stock purchased from Linkqage
+- **Assignee:** Stafford
+- **Due:** 2019-10-03
+- **Notes:** Received an Invoice from the supplier for 60M HDMI, RJ45 CAT6. This PO was not loaded on the system.
+
+### ✅ Return stock
+- **Assignee:** Stafford
+- **Due:** None
+- **Notes:** There is stock in the store room on the return shelf, need more information on this.
+
+### ✅ Sign up to Savant portal
+- **Assignee:** Unassigned
+- **Due:** 2019-09-30
+
+### ✅ takealot
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-30
+- **Notes:** Please send me the takealot invoice for 19 Sep 2019. TAKEALOT.COM 485442*3854. R4,791.80
+
+### ✅ Melissa prep
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-29
+
+### ✅ Setup a SAVANT login to their portal
+- **Assignee:** Unassigned
+- **Due:** 2019-09-30
+
+### ✅ update pricing on quote template
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-04
+
+### ✅ Advise Laptop repair  
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-30
+- **Notes:** Rectron wants me to bring the laptop in and they will send it away, up to 2 weeks. If hardware fault they will apply for credit.
+
+### ✅ Name of Kenyan ex-prisoner that did EO talk for Steph
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-30
+
+### ✅ Photos of vehicle and license etc
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-28
+- **Notes:** For claim
+
+### ✅ SONOS C4
+- **Assignee:** Unassigned
+- **Due:** 2019-09-27
+- **Notes:** Find out if the new drivers for C4 and Sonos deliver a seamless experience in the C4 OS3.
+
+### ✅ Setup account with My Courier
+- **Assignee:** Amanda
+- **Due:** 2019-09-27
+
+### ✅ Confirm that we have PIR and doormag on General
+- **Assignee:** Stafford
+- **Due:** 2019-09-23
+
+### ✅ HEOS credit?
+- **Assignee:** Amanda
+- **Due:** 2019-09-25
+
+### ✅ Book Savant workshop
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-20
+
+### ✅ Order Fibre at home
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-19
+
+### ✅ Add software file and software programming
+- **Assignee:** Unassigned
+- **Due:** 2019-09-20
+
+### ✅ Call Digicape back 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-19
+
+### ✅ Scoop order 
+- **Assignee:** Amanda
+- **Due:** 2019-09-18
+- **Notes:** I have ordered a router at scoop, they have sent the quote to accounts@d-one.co.za. Pay and send POP and PO number.
+
+### ✅ Organize a multimeter 
+- **Assignee:** Unassigned
+- **Due:** 2019-09-23
+
+### ✅ Organize a multimeter 
+- **Assignee:** Unassigned
+- **Due:** 2019-09-17
+
+### ✅ Add Sales to HubSpot 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-12
+
+### ✅ Afrihost Invoice
+- **Assignee:** Amanda
+- **Due:** 2019-09-25
+- **Notes:** Please send me the latest Afrihost invoice plus the log in details.
+
+### ✅ Access to Saving account Please
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-10-02
+
+### ✅ Create service tag 
+- **Assignee:** Stafford
+- **Due:** 2019-09-13
+- **Notes:** Benji will be using the tag "Service" in Asana to track all adhoc service calls directly.
+
+### ✅ Melissa's course starts today at GetSmarter
+- **Assignee:** Amanda
+- **Due:** 2019-09-09
+
+### ✅ Progress Invoices
+- **Assignee:** Amanda
+- **Due:** 2019-09-09
+- **Notes:** Can I email Avenhorn and Korner the invoices you asked me to raise? (50% of the balance invoices)
+
+### ✅ Download WiFi man app from Ubiquiti on your phone. 
+- **Assignee:** Stafford
+- **Due:** 2019-09-06
+- **Notes:** It's a brilliant app for network diagnostics. All in one.
+
+### ✅ Book Spiderman 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-05
+
+### ✅ Fix calendar sync. 
+- **Assignee:** Unassigned
+- **Due:** 2019-09-04
+- **Notes:** Calendar and Asana are the systems that drive D-One. It is imperative that these systems are fully functional.
+
+### ✅ Verify account
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-02
+
+### ✅ Fibre details
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-02
+- **Notes:** Details needed for debit order: Account Name, Account Number, Branch code, Type of account.
+
+### ✅ Call Yehuda Ecentric
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-09-02
+
+### ✅ Direct debit vetting process .co.za
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-31
+
+### ✅ Make a copy of the PSIRA module with the alpha bravo tangos. I have mine away. 
+- **Assignee:** Unassigned
+- **Due:** 2019-08-30
+
+### ✅ PSIRA triple payment
+- **Assignee:** Amanda
+- **Due:** 2019-09-04
+- **Notes:** Looks like I paid a while back, and then paid twice today. Use one for Anton, get the other credited back.
+
+### ✅ Billing for Ingy
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-08-30
+
+### ✅ Cancel course with GetSmarter
+- **Assignee:** Amanda
+- **Due:** 2019-09-03
 
