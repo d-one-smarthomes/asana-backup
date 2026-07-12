@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 1400 (1383 completed)
+**Tasks captured in this partial backup:** 1500 (1483 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -38,7 +38,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (1400 of 3680 total, 1383 completed)
+## Tasks captured so far (1500 of 3680 total, 1483 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -6456,3 +6456,480 @@ Password: Integrator@D1
 ### ✅ Tech meeting
 - **Assignee:** Unassigned
 - **Due:** None
+### ✅ linkage/office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-30
+
+### ✅ Tech Meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-08-31
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Send Amanda soft copies of Tristan and Mekyle signed contracts please
+- **Assignee:** Unassigned
+- **Due:** 2023-09-04
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-28
+
+### ✅ Pick up Stafford
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-25
+
+### ✅ Give us a rate for Ridaah/equivalent per day, if it's an option. With drivers license.
+- **Assignee:** Clyde Davis
+- **Due:** 2023-08-31
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-08-28
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-28
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Caleb kit
+- **Assignee:** Caren Bailey
+- **Due:** 2023-09-08
+
+### ✅ Admin-emails-coordinating
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Time off
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Team building
+- **Assignee:** Stafford
+- **Due:** 2023-09-01
+
+### ✅ Get a rental price for the Nissan panel van too
+- **Assignee:** Amanda
+- **Due:** 2023-10-27
+
+### ✅ Do we have any spare desks at the warehouse?
+- **Assignee:** Caren Bailey
+- **Due:** 2023-08-28
+
+### ✅ Team Meeting 1 Sept 2023 in Paarl
+- **Assignee:** Unassigned
+- **Due:** 2023-09-01
+- **Notes:** booking for 9 staff @ Pearl Valley Club @12:30
+
+https://www.google.com/search?sca_esv=559664296&cs=0&sxsrf=AB5stBjVR_HiCHjORkkwYlMXaGDtZCD8Nw:1692865300289&q=valley+restaurant+paarl+address&ludocid=14668856679390306326&sa=X&ved=2ahUKEwilg__W7vSAAxUlRvEDHUyBAPMQ6BN6BAgfEAI: Pearl Valley Club House R301 Wemmershoek Road, Paarl, 7646
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-24
+
+### ✅ Meeting notes (Thursday)
+- **Assignee:** Stafford
+- **Due:** 2023-08-24
+
+### ✅ Jorge Unanue 70 Quo Transaction
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Hi Mel
+
+Description	INVESTECPB Jorge Unanue 70 Quote
+Transaction Amount	8,853.54
+Transaction Type	CREDIT
+
+I see 2 Fibre invoices only ?? Is there perhaps another invoice or must this still be approved?
+
+### ✅ Team lunch
+- **Assignee:** Stafford
+- **Due:** 2023-09-01
+
+### ✅ BARBARA FIBRE VIA AFRIFHOST
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** MEL
+
+Barbara fibre amount has Increase from R547.00 to R997.00.
+40MBPs to 150MBPs Openserve Pure Fibre , just letting you know.
+
+### ✅ Get macbook ready and arrange to get it to Caleb +27 81 049 0748
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Ask Creatory about office space.
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Arrange VDV contractor access for Caleb
+- **Assignee:** Caren Bailey
+- **Due:** 2023-08-31
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-18
+
+### ✅ Pick up Stafford and Mekyle
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-22
+
+### ✅ Tech Meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-21
+
+### ✅ Travel Claim Excel Document
+- **Assignee:** Amanda
+- **Due:** 2023-10-20
+
+### ✅ Drop off Sipa1 and puncture repairs
+- **Assignee:** Stafford
+- **Due:** 2023-08-21
+
+### ✅ Confirm if Stafford phone is insured. Vodacom Will on-siteWill insure for R115pm
+- **Assignee:** Amanda
+- **Due:** 2023-08-24
+
+### ✅ Tech Meeting
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Add BSc Engineering to your  email signature
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-08-31
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-21
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-08-21
+
+### ✅ Do Tutorial on Draw.io for doing network/AV designs
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-08
+- **Notes:** Try to create this in https://Draw.io
+https://drawio-app.com/
+
+### ✅ This is what arrived at my house
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ General/Asana
+- **Assignee:** Stafford
+- **Due:** 2023-08-18
+
+### ✅ Pick up Stafford and Mekyle
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-17
+
+### ✅ Load UPS,s
+- **Assignee:** Stafford
+- **Due:** 2023-08-14
+
+### ✅ Tech meeting
+- **Assignee:** Stafford
+- **Due:** 2023-08-17
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-17
+
+### ✅ Drop 10 cage nuts with Darren
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ redo entire harvest data for the month on new account
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-17
+
+### ✅ Pick up trunk at Matos and drop off at Darrens place.
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-16
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-16
+
+### ✅ Office and Linkage
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-14
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-14
+
+### ✅ d1technician021@gmail.com on calendar
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ office
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** book out and collect stock
+
+### ✅ Admin/coordinating
+- **Assignee:** Stafford
+- **Due:** 2023-08-14
+
+### ✅ Mekyle accounts d1technician021@gmail.com
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-08-14
+
+### ✅ Format and prepare Mac and setup for Caleb
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Create Gmail d1technician021@gmail.com
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-08-14
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-14
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Ensure Mel gets billing for service calls this week
+- **Assignee:** Unassigned
+- **Due:** 2023-08-14
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-11
+
+### ✅ Admin/Asana
+- **Assignee:** Stafford
+- **Due:** 2023-08-07
+
+### ✅ Study these components to understand how the work
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-08
+- **Notes:** If you have time, learning about these components will accelerate your onboarding in September, because they will be familiar.
+
+### ✅ Public Holidy
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-10
+
+### ✅ Add a profile pic to your Asana profile
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-09-15
+
+### ✅ Drop off desk by Darren
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-10
+
+### ✅ Carry cableties in your toolbox for incase
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-10
+
+### ✅ Tech meeting
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-10
+
+### ✅ Add a KPI score for “taking responsibility for role” for all roles
+- **Assignee:** Amanda
+- **Due:** 2023-11-15
+- **Notes:** I’d like to add this to the scores to measure
+
+### ✅ Hand over Project finances to Mands
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-08-14
+
+### ✅ Review all TV purchases and make sure tv license report is up to date
+- **Assignee:** Caren Bailey
+- **Due:** 2023-08-18
+
+### ✅ UniFi
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-08-31
+- **Notes:** Browse YouTube to learn about UniFi networking and products.
+
+### ✅ Tutorials
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-08-31
+- **Notes:** Complete the basic tutorials for these products. To get familiar with how they work.
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-10
+
+### ✅ Tech meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Off due to Strike
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-07
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-08-03
+
+### ✅ Contact Ghalieb to get a portal login to Savant and do the Savant training
+- **Assignee:** Caleb Thetard
+- **Due:** None
+- **Notes:** ghalieb@planetworld.co.za
+
+### ✅ Change Tristan to tech01@d-one
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Recon Xero
+- **Assignee:** Unassigned
+- **Due:** 2023-08-17
+- **Notes:** Morning Caren
+
+Can you please recon as much as you can, I need to create a snap shot for Darren.
+
+Thanks
+Amanda
+
+### ✅ Add a profile pic to your Asana
+- **Assignee:** Unassigned
+- **Due:** 2023-08-25
+
+### ✅ Youtube Videos
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-08-31
+- **Notes:** https://youtu.be/bRMQtKhZQCQ
+https://youtu.be/ryZXX96G_mE
+https://youtu.be/MnwZbSYBpQw
+https://youtu.be/uoiLAX8i0II
+https://youtu.be/2XnYRNwzbQg
+https://youtu.be/NRLbwKGfgn4
+https://youtu.be/wH-JgZ10vug
+https://youtu.be/OPQO_j3yf0Q
+https://youtu.be/awJMmQIiXMA
+
+https://www.youtube.com/@SavantAV/videos
+
+And these are some features from some of the security products we use.
+
+https://youtu.be/C_Wv99_pAHM
+
+https://youtu.be/_oiWSL5xSGA
+
+
+Asana
+
+https://academy.asana.com/series/video-tutorials-tips
+
+A
+
+### ✅ Duplicate of Youtube Videos
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** https://youtu.be/bRMQtKhZQCQ
+https://youtu.be/ryZXX96G_mE
+https://youtu.be/MnwZbSYBpQw
+https://youtu.be/uoiLAX8i0II
+https://youtu.be/2XnYRNwzbQg
+https://youtu.be/NRLbwKGfgn4
+https://youtu.be/wH-JgZ10vug
+https://youtu.be/OPQO_j3yf0Q
+https://youtu.be/awJMmQIiXMA
+
+https://www.youtube.com/@SavantAV/videos
+
+And these are some features from some of the security products we use.
+
+https://youtu.be/C_Wv99_pAHM
+
+https://youtu.be/_oiWSL5xSGA
+
+
+Asana
+
+https://academy.asana.com/series/video-tutorials-tips
+
+A
+
+### ✅ Olarm Followup Monitoring Pricing
+- **Assignee:** Unassigned
+- **Due:** 2023-08-07
+
+### ✅ Meeting notes
+- **Assignee:** Stafford
+- **Due:** 2023-08-07
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-07
+
+### ✅ Tech meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Regal/Homemation
+- **Assignee:** Stafford
+- **Due:** 2023-08-04
+
+### ✅ Unifi Quote Cloud key Gen 2 at projects
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Tech Meeting
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Add a field in Harvest for overtime so that it can be logged separately
+- **Assignee:** Amanda
+- **Due:** 2023-08-03
+
+### ✅ Projects/Admin
+- **Assignee:** Stafford
+- **Due:** 2023-08-02
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-08-03
+
+### ✅ Hardware
+- **Assignee:** Unassigned
+- **Due:** 2023-08-01
+- **Notes:** Purchase multiplugs
+
