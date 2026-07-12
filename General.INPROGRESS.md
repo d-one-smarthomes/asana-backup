@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 1100 (1085 completed)
+**Tasks captured in this partial backup:** 1200 (1184 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -17,7 +17,7 @@
 > and to this file, until all ~3680 tasks are captured -- at which point rename
 > this file to General.md.
 
-## Tasks captured so far (1100 of 3680 total, 1085 completed)
+## Tasks captured so far (1200 of 3680 total, 1184 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -5143,3 +5143,455 @@ Please could you or Mekyle assist with the Wiring in the office as discussed.
 ### ✅ Send Caleb Contact for discovery insurance
 - **Assignee:** Amanda
 - **Due:** 2023-12-12
+### ✅ Add Caleb to provident fund for 2024
+- **Assignee:** Amanda
+- **Due:** 2024-02-29
+
+### ✅ Caleb Leave 14 December
+- **Assignee:** Caren Bailey
+- **Due:** 2023-12-14
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-12-11
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-12-07
+
+### ✅ Review Jetbuiot project statuses and change orders are up to date
+- **Assignee:** Caleb Thetard
+- **Due:** None
+
+### ✅ [Converted to template] Payment
+- **Assignee:** Amanda
+- **Due:** 2023-12-07
+- **Notes:** When needing to ask for payment please add the below tasks.
+
+Please make sure the sure date states when the payment needs to be made.
+
+Please send a whatsapp for immediate/urgent payments.
+
+### ✅ Duplicate of Payment
+- **Assignee:** Amanda
+- **Due:** None
+- **Notes:** When needing to ask for payment please add the below tasks
+
+### ✅ Documentation
+- **Assignee:** Unassigned
+- **Due:** 2024-01-31
+- **Notes:** Desvaux 
+Ekbergh
+Barbara
+James
+Fulham
+
+Lighting Channel legend for DB.
+
+IP addresses from routers.
+
+Login credentials.
+Hikvision
+Lutron
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-12-04
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2024-02-19
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-12-04
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-11-30
+
+### ✅ meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-30
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Travel billing
+- **Assignee:** Darren Swanepoel
+- **Due:** 2024-04-11
+
+### ✅ Holiday contacts
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-12-01
+
+### ✅ Aruba Instant On Registration
+- **Assignee:** Unassigned
+- **Due:** 2023-11-29
+- **Notes:** https://partner.hpe.com/web/prp/registration
+
+Logins:
+darren@d-one.co.za
+Darren@D1
+
+### ✅ Test audio
+- **Assignee:** Stafford
+- **Due:** 2023-11-28
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-11-16
+
+### ✅ D1 virtual Office Catch up
+- **Assignee:** Unassigned
+- **Due:** 2023-11-21
+
+### ✅ D-One Staff Function
+- **Assignee:** Unassigned
+- **Due:** 2023-11-24
+
+### ✅ Admin
+- **Assignee:** Unassigned
+- **Due:** 2023-11-24
+
+### ✅ Make 10 more D1 caps
+- **Assignee:** Amanda
+- **Due:** 2023-12-01
+
+### ✅ Debtors ReView
+- **Assignee:** Caren Bailey
+- **Due:** 2023-11-30
+- **Notes:** Feedback on all outstanding money
+
+### ✅ Debtors ReView
+- **Assignee:** Caren Bailey
+- **Due:** 2024-03-18
+- **Notes:** Feedback on all outstanding money
+
+### ✅ Meeting notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-27
+
+### ✅ Edwin
+- **Assignee:** Amanda
+- **Due:** 2023-11-24
+
+### ✅ Send TCL Business Details as per email
+- **Assignee:** Unassigned
+- **Due:** 2023-11-30
+- **Notes:** Have sent you an email. We want to create an account with them and potentially sell their TVs
+
+### ✅ Asana, Planning, Admin
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Admin Check in
+- **Assignee:** Unassigned
+- **Due:** 2023-11-29
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-11-23
+
+### ✅ Harvest logging
+- **Assignee:** Unassigned
+- **Due:** 2023-11-30
+- **Notes:** For Mekyle, Stafford, Imti and Tristan.
+Check when they stopped logging in Harvest (Use Mel's login)
+Go back in their calendars and just log the time that they spent on which projects as per their calendars.
+Stafford: Installation
+Imti: Programming
+Tristan: Installation
+Mekyle: Installation
+
+Log their tech meetings as project management.
+
+### ✅ Do HP Aruba Partner registration
+- **Assignee:** Unassigned
+- **Due:** 2023-11-30
+- **Notes:** https://partner.hpe.com/web/prp/registration
+
+### ✅ ADMIIN CATCH UP
+- **Assignee:** Unassigned
+- **Due:** 2023-11-22
+
+### ✅ [Converted to template] Ovetime Template
+- **Assignee:** Amanda
+- **Due:** None
+- **Notes:** Please make sure you override the word "Template" to the actual month the time was recorded.
+
+The period for a month is 21st to 20th of the next month (EG 21 Jan- 20th Feb). This give me a few days to prepare payrol. Anything not loaded in time may be claimed but in the following month.
+
+Please create a subtask per day for overtime. See below
+
+### ✅ 2.5 Hours
+- **Assignee:** Amanda
+- **Due:** 2023-11-22
+- **Notes:** Brief description of what was done on that day.
+
+### ✅ Tristan: Overtime
+- **Assignee:** Amanda
+- **Due:** 2023-11-21
+
+### ✅ Test time
+- **Assignee:** Amanda
+- **Due:** 2023-11-21
+
+### ✅ Mekyle off sick please book him off
+- **Assignee:** Caren Bailey
+- **Due:** None
+
+### ✅ Tech meeting
+- **Assignee:** Stafford
+- **Due:** 2023-11-20
+
+### ✅ Tech Meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-11-29
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-20
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** 2023-11-20
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-11-20
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Asana trial ending today
+- **Assignee:** Amanda
+- **Due:** 2023-11-17
+
+### ✅ Meetings
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-16
+
+### ✅ Fines
+- **Assignee:** Amanda
+- **Due:** 2024-01-26
+- **Notes:** Confirm who these other license plates are. And allocate fines accordinlgy. Have you paid these?
+
+### ✅ D1 Virtual Office Catch up
+- **Assignee:** Unassigned
+- **Due:** 2023-11-15
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ⬜ Rack labeling training for team
+- **Assignee:** Caleb Thetard
+- **Due:** None
+- **Notes:** Find a training that we can send the team on, to label cables and patches in racks. 3/3 sites I've been to to troubleshoot had no labels and made troubleshooting much harder. We need a strategy for this. We can do the training in 2024.
+
+### ✅ Apartment 1/2 alarm quote
+- **Assignee:** Unassigned
+- **Due:** 2023-11-14
+- **Notes:** Apartment 1: 2 x Hikvision Alarm Remotes, 2 x Hikvision Door Magnet sensors (Main Bedroom, Bedroom 2). Apartment 2: 2 x Remotes, 3 x Hikvision Door Magnet sensors (Dining Kitchen, Bedroom 1, Bedroom 2). Quote needs to be sent to: jaco@nox.capetown
+
+### ✅ Planetworld Demo
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-13
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-13
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-11-13
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Tech meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-11-09
+
+### ✅ Admin meeting/Sensor Collection
+- **Assignee:** Tristan Capes
+- **Due:** 2023-11-08
+
+### ✅ D1 Virtual Office Catch up
+- **Assignee:** Unassigned
+- **Due:** 2023-11-08
+
+### ✅ Drop off Relays at Homemation
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-07
+
+### ✅ Admin meeting
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Admin/emails
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Overtime
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Asana Login
+- **Assignee:** Amanda
+- **Due:** 2023-11-08
+- **Notes:** Username: Integrator@d-one.co.za
+Password: Integrator@D1
+
+### ✅ Confirm if you would to use a standing desk. We have a spare.
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-08
+
+### ✅ Caleb returning Lutron Relays we ordered
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Oakvale Delivery note for Caleb he will return 5 relay lutron devices.
+
+### ✅ D1 virtual Office Catch up
+- **Assignee:** Unassigned
+- **Due:** 2023-11-07
+
+### ✅ D1 virtual Office Catch up
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-07
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-06
+
+### ✅ Mekyle : Overtime
+- **Assignee:** Amanda
+- **Due:** 2023-11-20
+
+### ✅ tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-11-02
+
+### ✅ Admin meeting/office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-11-03
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ D1 virtual Office Catch up
+- **Assignee:** Unassigned
+- **Due:** 2023-11-03
+
+### ✅ Imti: Overtime
+- **Assignee:** Amanda
+- **Due:** 2023-11-20
+
+### ✅ Criminal record check Edwin.
+- **Assignee:** Caren Bailey
+- **Due:** 2023-11-09
+
+### ✅ Check out Asana project templates. To see if that's where we should do the Wiki
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-10
+
+### ✅ Tech meeting/Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-11-02
+
+### ✅ Drop Barbara stock at the Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-11-03
+
+### ✅ Meeting Notes
+- **Assignee:** Caleb Thetard
+- **Due:** 2023-11-02
+
+### ✅ Pin Point Inv 6639- Oakvale Balance
+- **Assignee:** Amanda
+- **Due:** 2023-11-24
+- **Notes:** Please authorize Pint Point Invoice 6639. Progress Draw: First - Oakvale; Second - Oakvale Invoice 6639 R75 000.00 billed, R50 000.00 paid and R25 000.00 remaining to be paid.
+
+### ✅ michaelbond81@outlook.co
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Hi Melissa. Please confirm Fibre Payment for Which Building. michaelbond81@outlook.co R897.00 x 2 amounts
+
+### ✅ Meeting notes
+- **Assignee:** Darren Swanepoel
+- **Due:** None
+
+### ✅ Meeting Notes
+- **Assignee:** Unassigned
+- **Due:** 2023-11-02
+
+### ✅ Admin Meeting/Pick up Imti
+- **Assignee:** Tristan Capes
+- **Due:** 2023-11-01
+
+### ✅ Collect smoke detectors from Spectrum
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-31
+
+### ✅ Admin Meeting/collect stock for barbara
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-31
+
+### ✅ D-One Virtual Meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-10-31
+
+### ✅ Tech meeting
+- **Assignee:** Unassigned
+- **Due:** 2023-10-30
+
+### ✅ Admin while wait for Tristan
+- **Assignee:** Unassigned
+- **Due:** 2023-10-27
+- **Notes:** 30min
+
+### ✅ Office
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-25
+
+### ✅ Pick up Melyle
+- **Assignee:** Tristan Capes
+- **Due:** 2023-10-27
+
+### ✅ Return P5 module to general
+- **Assignee:** Tristan Capes
+- **Due:** 2023-11-02
+
+### ✅ Sort Olarm account - create table like we have for fibre
+- **Assignee:** Caren Bailey
+- **Due:** 2023-11-06
+- **Notes:** We need to keep track of who is paying us for Olarm, who we are paying for. And who is paying directly.
+
+### ✅ Accounts meeting
+- **Assignee:** Darren Swanepoel
+- **Due:** None
