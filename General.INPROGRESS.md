@@ -2,7 +2,7 @@
 **GID:** 905674768180011
 **Last updated:** 2026-07-12
 **Project total tasks (per Asana):** 3680 (3659 completed, 21 incomplete)
-**Tasks captured in this partial backup:** 3400 (3380 completed)
+**Tasks captured in this partial backup:** 3600 (3580 completed)
 
 > NOTE FOR FUTURE BACKUP RUNS: This project is too large to fully back up in a
 > single automated run (3680 tasks vs ~100/API call). This file is intentionally
@@ -48,7 +48,7 @@
 > General.md and remove the _raw_general/ cache directory (or leave it; it's
 > harmless) and update INDEX.md.
 
-## Tasks captured so far (3400 of 3680 total, 3380 completed)
+## Tasks captured so far (3600 of 3680 total, 3580 completed)
 
 ### ⬜ Lutron homeworks training
 - **Assignee:** Mekyle Cerff
@@ -15105,4 +15105,911 @@ Please follow up on this money outstanding
 ### ✅ Setup Hik connect on Dalven DVR
 - **Assignee:** Unassigned
 - **Due:** 2019-04-08
+
+### ✅ Cancel Afrihost for the office
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-04
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-04
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-10
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-17
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-04-24
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-01
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-08
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-15
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-05-22
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-05
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-19
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-06-26
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-03
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-12
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-17
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-24
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-07-31
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-14
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-23
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-08-28
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-04
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-11
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-18
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-18
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-25
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-02
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-09
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-16
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-23
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-30
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-06
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-09-25
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-02
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-09
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-16
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-23
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-10-30
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-06
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-13
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-20
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-11-27
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-04
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-11
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-18
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2019-12-25
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-01
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-08
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Petty Cash
+- **Assignee:** Caren Bailey
+- **Due:** 2020-01-15
+- **Notes:** Petty Cash Recon - Stafford and Janine accounts
+
+### ✅ Call - De Leeuw Group
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-03-27
+- **Notes:** Please could you call Letisha or Bukiwe on 021 423 8036. Re: House Bentel Tender
+
+### ✅ Sales Rep Query
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-03-22
+- **Notes:** Please let me know who I should allocate to each project when I allocate a Sales Rep?
+
+### ✅ Call - Christine QDP
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-03-18
+- **Notes:** Please call Christine when you have a moment wrt the tender email. 082 789 2195
+
+### ✅ Get a serial cable for alarm programming 
+- **Assignee:** Unassigned
+- **Due:** 2019-03-15
+
+### ✅ Load recon procedure into Asana NEW PROJECT
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-15
+
+### ✅ Follow Up
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-11
+- **Notes:** Do follow ups based on this morning catch up.
+
+### ✅ Petty Cash recon both accounts please. 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-11
+
+### ✅ Sales Call
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-03-07
+- **Notes:** Please contact Michael. He is wanting our Sales Dpt, however not providing further detail as to his call. 011 803 0096
+
+### ✅ Office Remote Access
+- **Assignee:** Stafford
+- **Due:** None
+- **Notes:** Please could you set up the remote for the office gate.
+
+### ✅ Reference view in Xero?
+- **Assignee:** Amanda
+- **Due:** 2019-03-05
+
+### ✅ Arrange for Office National to measure up Eisgaaq's car doors 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-04
+
+### ✅ Populate Whiteboard-calendar with project estimated installation and completion dates
+- **Assignee:** Stafford
+- **Due:** 2019-03-04
+
+### ✅ Repack Paradox stock
+- **Assignee:** Unassigned
+- **Due:** None
+- **Notes:** Repack the Paradox alarm stock on the General shelf. Group all of the same devices together in the tupperware boxes
+
+### ✅ Caddy
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-03-01
+- **Notes:** Please send me the HP documents you signed for the Caddy
+
+### ✅ Make email signature 
+- **Assignee:** Unassigned
+- **Due:** 2019-03-04
+- **Notes:** sales@d-one.co.za
+
+### ✅ Create an email address for Riedwaan 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-02-28
+- **Notes:** Store@d-one.co.za
+
+### ✅ Update pricelists in the Pricelists folder 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-01
+- **Notes:** Radionic, Linkqage, Spectrum
+
+### ✅ Mission This Week
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-01
+- **Notes:** AVH Battery - J9 to complete this week. AVH Main - Darren to do recon. Debit Orders - follow up on fibre. Bali Cover bc - send balance invoice. Cape Atlantic - getting the template to send off.
+
+### ✅ Creditors
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-26
+- **Notes:** All in
+
+### ✅ Send Bose Back
+- **Assignee:** Unassigned
+- **Due:** 2019-03-04
+
+### ✅ Does the workshop TV have CEC anynet control?
+- **Assignee:** Stafford
+- **Due:** 2019-02-25
+
+### ✅ Fix alarm zone8 (warehouse) so Alarm can be armed at the office
+- **Assignee:** Stafford
+- **Due:** 2019-02-25
+
+### ✅ Headphones for Eisgaaq
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-27
+- **Notes:** Please see options for headphones for Eisgaaq. All available from Clicks that I can go purchase this weekend.
+
+### ✅ 90 degree SXT AC Sector 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-26
+- **Notes:** Supplier Stock Code: RBSXTG-5HPacD-SA. Stock is jhb but they will ship down to cape town.
+
+### ✅ Trevor Garage
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-25
+- **Notes:** Deep Blue confirmed that Trevor can install the LED on Monday at 09:00am at a cost of R645.00.
+
+### ✅ Send Stock Back
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-04
+- **Notes:** Homemation, Sensor
+
+### ✅ Office Day
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-29
+- **Notes:** Stock Take, Kitchen Shelf, Workshop tidy up
+
+### ✅ Get an LED from Spectrum for our garage and 2x BA-1195T batteries
+- **Assignee:** Unassigned
+- **Due:** 2019-02-21
+
+### ✅ Tracy and Rudi TV
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-02-21
+
+### ✅ Workshop Organization
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-28
+- **Notes:** Jack Hammer's organisation baskets we spoke of last year.
+
+### ✅ Setup google Drive stream on Windows
+- **Assignee:** Unassigned
+- **Due:** 2019-02-21
+
+### ✅ Eisgaaq - Requirements
+- **Assignee:** Unassigned
+- **Due:** 2019-02-22
+- **Notes:** Headphones
+
+### ✅ See if Jackhammers has a pump suitable for draining a bath into a garden 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-20
+
+### ✅ Upload Eisgaaq's email signature
+- **Assignee:** Amanda
+- **Due:** 2019-02-19
+- **Notes:** Login and upload it to media library, add link to his Gmail.
+
+### ✅ Create tick-list for programming an alarm for Asana
+- **Assignee:** Unassigned
+- **Due:** 2019-07-30
+
+### ✅ Source car-magnets for temporary branding on vehicles - Eisgaaq's
+- **Assignee:** Caren Bailey
+- **Due:** 2019-03-12
+
+### ✅ Team Lunch Idea
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-28
+- **Notes:** I think we should plan a Team Lunch when all have joined the team.
+
+### ✅ Spectrum Training
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-18
+- **Notes:** Training days: MG/SP - 5th & 19th February 2019. DIGIPLEX/EVO - 7th & 21st February 2019. Please confirm if you want all 3 guys to attend.
+
+### ✅ Scott & Partners Kitchen Speaker
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-12
+- **Notes:** Adeela called saying the Kitchen speaker has been switching off intermittently. If someone could please contact her to troubleshoot.
+
+### ✅ Doorbird Return
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-13
+- **Notes:** iLed collecting Doorbird tomorrow
+
+### ✅ Cell C cancellation
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-15
+- **Notes:** We will need to send through a letter for cancellation. This will take 30 days to cancel.
+
+### ✅ Do Control4 Lighting tutorial
+- **Assignee:** Unassigned
+- **Due:** 2019-02-13
+
+### ✅ FROM THE HEART
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-02-11
+
+### ✅ Change your email password 
+- **Assignee:** Stafford
+- **Due:** 2019-02-12
+
+### ✅ Update Client Control4 logins for security
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-02-11
+
+### ✅ UniFi cloud password has been changed - details on the D-One Stuff Credentials document
+- **Assignee:** Unassigned
+- **Due:** 2019-02-08
+
+### ✅ Branding on car with details or without?
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-02-07
+
+### ✅ Download Google Drive app on your phone, log in and find Project Files for projects with Connections document with all relevant project info, passwords etc.
+- **Assignee:** Stafford
+- **Due:** 2019-02-07
+
+### ✅ Scoop / Miro Training
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-08
+- **Notes:** Please have a look at this Training offered from Scoop. Please confirm which Training would be best suited.
+
+### ✅ Password
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-08
+- **Notes:** Where would I be able to locate passwords for Tech - should we put a fail safe process in place?
+
+### ✅ Download and install Parallels 14
+- **Assignee:** Unassigned
+- **Due:** 2019-02-06
+- **Notes:** Get Windows installed. Speak to Amanda if we need to buy it.
+
+### ✅ Cancel my Chiro appointment on Monday at 3 ( 021) 794 4925  
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-06
+- **Notes:** No need to schedule a followup. Reason is that I need the time and money spent elsewhere.
+
+### ✅ Take Alot queue
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-06
+- **Notes:** Apple Tvs, Laptop Bag for Eisgaaq
+
+### ✅ Cable from Radionic
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-05
+
+### ✅ Email Jacky for KPIs
+- **Assignee:** Amanda
+- **Due:** 2019-02-05
+
+### ✅ Update passwords
+- **Assignee:** Unassigned
+- **Due:** 2019-02-11
+
+### ✅ RIFs
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-02-11
+
+### ✅ Complete all Smart skills courses in Control4 Composer 
+- **Assignee:** Unassigned
+- **Due:** 2019-02-15
+- **Notes:** Courses are in the Control4 portal
+
+### ✅ Become the master of UniFi
+- **Assignee:** Unassigned
+- **Due:** 2019-02-08
+
+### ✅ Load R300 airtime per month to Stafford's phone
+- **Assignee:** Amanda
+- **Due:** 2019-02-25
+
+### ✅ Please Load R300 airtime per month to Eisgaaq's phone
+- **Assignee:** Amanda
+- **Due:** 2019-02-11
+- **Notes:** Please could you load Eisgaaq's phone with the same as per Stafford.
+
+### ✅ Load R300 airtime per month to Stafford's phone
+- **Assignee:** Amanda
+- **Due:** 2019-03-25
+
+### ✅ Setup permanent power in the workshop - go through doorframe if necessary 
+- **Assignee:** Stafford
+- **Due:** 2019-04-04
+
+### ✅ Configure Hik-Connect on DVR and load details to the D-One General project file on G:/
+- **Assignee:** Unassigned
+- **Due:** 2019-02-04
+
+### ✅ Get a laptop protector for the Mac and give the slip to Janine for reimbursement 
+- **Assignee:** Unassigned
+- **Due:** 2019-02-05
+
+### ✅ Setup a Unifi controller on the computer. Save all passwords in Google Drive, Projects, General 
+- **Assignee:** Unassigned
+- **Due:** 2019-02-01
+
+### ✅ Email signatures
+- **Assignee:** Amanda
+- **Due:** 2019-02-01
+
+### ✅ Add photo to Asana Profile
+- **Assignee:** Unassigned
+- **Due:** 2019-02-01
+
+### ✅ Setup iCal with Google calendars
+- **Assignee:** Unassigned
+- **Due:** 2019-02-01
+
+### ✅ Look into Office Wifi solution for D-One
+- **Assignee:** Unassigned
+- **Due:** 2019-02-01
+
+### ✅ Programming Training
+- **Assignee:** Unassigned
+- **Due:** 2019-02-28
+- **Notes:** Setup training with the relevant products below
+
+### ✅ Km billing
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-08
+- **Notes:** Do we bill for travelling? Or do we allocate this into the quote somehow.
+
+### ✅ Programming procedures 
+- **Assignee:** Unassigned
+- **Due:** 2019-02-05
+- **Notes:** Update the programming sections: Step by step process using Subtasks. System Design, Drivers, Drivercentral registrations, Connections, Agents, Programming.
+
+### ✅ Insurance
+- **Assignee:** Caren Bailey
+- **Due:** 2019-02-01
+- **Notes:** Have we taken insurance over from Luke Hirst?
+
+### ✅ Get access to Control4 portal
+- **Assignee:** Unassigned
+- **Due:** 2019-02-04
+- **Notes:** Contact Jason from Homemation to help getting setup with access to the Control4 portal. Account is setup, create a password.
+
+### ✅ Install on the Mac 
+- **Assignee:** Unassigned
+- **Due:** 2019-02-06
+- **Notes:** Windows 7, Babyware. Speak to Jason @ Homemation about logging into the Control4 Portal.
+
+### ✅ Learn how to setup VLANs with Ubiquiti 
+- **Assignee:** Unassigned
+- **Due:** 2019-02-05
+- **Notes:** Setup a demo project in the workshop and create a setup with 5 independent VLANs with their own DHCP ranges, hosted by the Cloudkey.
+
+### ✅ Bring tape, so we can measure our chests
+- **Assignee:** Amanda
+- **Due:** 2019-01-30
+
+### ✅ Xero recurr invoice setting 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-30
+
+### ✅ Scott & Partners Audio
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-30
+- **Notes:** Get quotes for a basic speaker system: 4 small white satellite speakers, subwoofer. Homemation, iLed, Audiotronic, Balanced Audio.
+
+### ✅ Order a UAP-AC-LR-5 5-pack for us to keep in store for adhoc sales 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-30
+
+### ✅ Contact Homemation and iLed and order emitter covers. Budget is R500 max.  Get 50 max 
+- **Assignee:** Stafford
+- **Due:** 2019-01-28
+
+### ✅ Change your email password
+- **Assignee:** Unassigned
+- **Due:** 2019-02-01
+
+### ✅ Sign into Google Chrome with projects@d-one.co.za
+- **Assignee:** Unassigned
+- **Due:** 2019-02-01
+
+### ✅ Download Google Drivestream and sign into G:/
+- **Assignee:** Unassigned
+- **Due:** 2019-02-01
+
+### ✅ Label New Stock
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-25
+
+### ✅ Move Printer 
+- **Assignee:** Stafford
+- **Due:** 2019-02-14
+- **Notes:** Please can we move the printer to a central place.
+
+### ✅ Setup roles and responsibilities meeting 8 FEb
+- **Assignee:** Amanda
+- **Due:** 2019-01-24
+
+### ✅ Install switch and LUXUL WAP in the garage
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Invoice Luke Hirst for JAck's work, and the hardware. Invoice as normal customer, but give 20% discount on total.
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-24
+
+### ✅ Office Essentials
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-31
+- **Notes:** Toaster - MIA
+
+### ✅ Ask TSTEC to setup a new email address for D-One, called projects@d-one.co.za. 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-23
+- **Notes:** We will need to remove Jack's in a month, then setup a new account.
+
+### ✅ Please order a jobcard book with a d-one logo in print on the pages 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-24
+
+### ✅ See if Cellucity has a deal for a laptop and phone contract with 2G and 500mins
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-25
+
+### ✅ Ask Caleb for spare key for Caddy
+- **Assignee:** Stafford
+- **Due:** 2019-01-25
+
+### ✅ Creditors
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-30
+
+### ✅ Reset Apple TV to factory settings in the workshop
+- **Assignee:** Stafford
+- **Due:** None
+
+### ✅ Install UAP-AC-PRO WAP from General shelf in warehouse. Needs 48V injector 
+- **Assignee:** Stafford
+- **Due:** 2019-02-05
+
+### ✅ Stock Collections
+- **Assignee:** Stafford
+- **Due:** 2019-01-22
+- **Notes:** Please see the various stops for collection on Monday. BPT, Scoop, Core Furniture, Spectrum, Luks Brands.
+
+### ✅ Followup with Janine and Duxbury, and get 21CD back online
+- **Assignee:** Unassigned
+- **Due:** 2019-01-17
+
+### ✅ Configure Unifi for Luke Luke@privateclient.co.za
+- **Assignee:** Unassigned
+- **Due:** 2019-01-18
+- **Notes:** Plan and Arrange with Luke to configure their WiFi for them, when you're next in Hout Bay. Log the time required.
+
+### ✅ Credit Apps
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-31
+- **Notes:** Hellerman, Jack Hammers
+
+### ✅ Clean site board in the office and put it into the store 
+- **Assignee:** Stafford
+- **Due:** 2019-01-17
+
+### ✅ Sort sim and phone with cell c
+- **Assignee:** Unassigned
+- **Due:** 2019-01-15
+
+### ✅ See updated calendar for today
+- **Assignee:** Stafford
+- **Due:** 2019-01-15
+
+### ✅ Re-setup phone with Voys
+- **Assignee:** Amanda
+- **Due:** 2019-01-14
+- **Notes:** Phone has been reset, needs to be reconfigured. Voys can walk you through it.
+
+### ✅ Stationery 
+- **Assignee:** Caren Bailey
+- **Due:** 2019-01-18
+- **Notes:** Extra Punch
+
+### ✅ Setup email signature for Stafford with JAck's old tel number and tech@d-one.co.za, team leader as the job role
+- **Assignee:** Amanda
+- **Due:** 2019-01-15
+
+### ✅ Snacks
+- **Assignee:** Caren Bailey
+- **Due:** None
+- **Notes:** Future Life Crunch - chocolate, Bananas, Apples, Rice cakes, Peanut butter, Jam
+
+### ✅ Sort out general stock into sections 
+- **Assignee:** Unassigned
+- **Due:** 2019-01-09
+- **Notes:** Alarm, CCTV, Access control, DSTV, Network, Audiovisuals, Control
+
+### ✅ Setup LAN points for Amanda, Janine, and the workshop
+- **Assignee:** Unassigned
+- **Due:** 2019-01-09
+
+### ✅ Give reverse camera back to return to Takealot
+- **Assignee:** Unassigned
+- **Due:** 2019-01-10
+
+### ✅ Install seat covers in car
+- **Assignee:** Unassigned
+- **Due:** 2019-01-10
+
+### ✅ Tidy all desk cabling 
+- **Assignee:** Unassigned
+- **Due:** 2019-01-11
+
+### ✅ Install LAN cable to ladies' desks and Workshop with trunking to router
+- **Assignee:** Unassigned
+- **Due:** 2019-01-09
+
+### ✅ Install whiteboard and calendar on walls
+- **Assignee:** Unassigned
+- **Due:** 2019-01-09
+
+### ✅ Add power control PE08 to projects 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2019-01-17
+
+### ✅ Update project template workflow with details and programming 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-24
+
+### ✅ Get USG CK and UAP
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-24
+
+### ✅ Create tags for MY tasks. Good At, Enjoy, Bad at, Don't enjoy
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-24
+
+### ✅ https://www.coursera.org/learn/agile-atlassian-jira
+- **Assignee:** Unassigned
+- **Due:** 2019-01-31
+- **Notes:** This will empower us to plan our projects
+
+### ✅ Projects onto the whiteboard 
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-21
+
+### ✅ Install LAN cable from office Router to workshop room, by Gert's desk
+- **Assignee:** Unassigned
+- **Due:** 2019-01-14
+
+### ✅ Install garage door mag in garage
+- **Assignee:** Unassigned
+- **Due:** 2018-12-21
+
+### ✅ Deets Document
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-19
+
+### ✅ Complete Stafford and Rhiedwaan's contracts for singing this week
+- **Assignee:** Amanda
+- **Due:** 2018-12-17
+
+### ✅ Collect spare rack cabinets from Maitland
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-19
+
+### ✅ Accounts
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-18
+- **Notes:** Confirm balance due.
+
+### ✅ HM Backorders
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-14
+- **Notes:** Back ordered items for various sites. Teresi waiting on engravings. Paradiso has CYP units on back order.
+
+### ✅ Plan Jack next week
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-17
+
+### ✅ Install PIR in garage :-) 
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Investigate "Rain" data for office. Rain is a new 3G company. See if they have coverage for Hout Bay
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-18
+- **Notes:** Maybe we can get a better connection from them.
+
+### ✅ DVR network settings. Disable encryption 
+- **Assignee:** Unassigned
+- **Due:** 2018-12-13
+
+### ✅ Caleb Wingfield motors Kuilsrivier
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-11
+- **Notes:** 90k km, 2014, Service plan, R169k
+
+### ✅ Pin Point Invoices
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-10
+
+### ✅ Btw we closing mail
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-21
+
+### ✅ Move audio cabinet to corner by door
+- **Assignee:** Unassigned
+- **Due:** 2018-12-13
+
+### ✅ Install trunking for router cables at door
+- **Assignee:** Unassigned
+- **Due:** 2018-12-13
+
+### ✅ Assist Janine with warehouse pack
+- **Assignee:** Unassigned
+- **Due:** 2018-12-10
+
+### ✅ Test DVR to alarm connection
+- **Assignee:** Unassigned
+- **Due:** 2018-12-10
+- **Notes:** Make sure relay 1 is connected to alarm panel
+
+### ✅ Install boxing bag hook
+- **Assignee:** Unassigned
+- **Due:** None
+
+### ✅ Install pull-up bar
+- **Assignee:** Unassigned
+- **Due:** 2018-12-10
+
+### ✅ 2018 wrap up 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-19
+
+### ✅ Caddy gone?
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-07
+
+### ✅ Clear parameters and roles 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-14
+
+### ✅ WhatsApp update
+- **Assignee:** Unassigned
+- **Due:** 2018-12-06
+- **Notes:** If you can't get through to me, please use WhatsApp. Feedback can go on Asana.
+
+### ✅ Make a limit with Enrico. So it can't go negative 
+- **Assignee:** Amanda
+- **Due:** 2018-12-04
+- **Notes:** Please see bank details as requested.
+
+### ✅ Setup Xero, to allow customers to login to their accounts and pay directly. They should be able to see their accounts with a client login.
+- **Assignee:** Amanda
+- **Due:** 2019-04-19
+
+### ✅ Connect relay1 out of the warehouse DVR to the alarm panel in the office
+- **Assignee:** Unassigned
+- **Due:** 2018-12-05
+
+### ✅ End of year date and lunch 
+- **Assignee:** Darren Swanepoel
+- **Due:** 2018-12-03
+
+### ✅ Filing Cabinets Swap
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-21
+- **Notes:** Could I please take over the big filing cabinet next to your desk?
+
+### ✅ Creditors Per Day
+- **Assignee:** Caren Bailey
+- **Due:** 2018-12-11
 
